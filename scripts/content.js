@@ -50,7 +50,7 @@ export const Content = reactive({
       const response = await fetch(url)
       const text = await response.text()
       const markdown = markdownit({
-        content: true,
+        html: true,
         linkify: true
       })
       markdown.use(markdownitFootnote)
