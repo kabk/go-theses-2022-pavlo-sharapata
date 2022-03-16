@@ -1,13 +1,15 @@
 import { Content } from './content.js'
 import { Navigator } from './navigator.js'
 import { Footnotes } from './footnotes.js'
+import { Images } from './images.js'
 
 export const Application = {
   data () {
     return {
       Content,
       Navigator,
-      Footnotes
+      Footnotes,
+      Images
     }
   },
 
@@ -16,6 +18,7 @@ export const Application = {
       await this.Content.initialize()
       await this.Navigator.initialize()
       await this.Footnotes.initialize()
+      await this.Images.initialize()
     }
   },
 

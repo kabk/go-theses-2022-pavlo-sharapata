@@ -21,23 +21,6 @@ html, body {
   overflow: hidden;
 }
 
-#app > header {
-  flex: 0;
-  padding: 8px;
-  font-weight: bold;
-}
-
-#app > nav {
-  flex: 0;
-  background-color: #d0d0d0;
-}
-
-#app > nav > .progress {
-  height: 5px;
-  background-color: blue;
-  transition: all ease-in-out 0.2s;
-}
-
 #app > main {
   flex: 1;
   display: flex;

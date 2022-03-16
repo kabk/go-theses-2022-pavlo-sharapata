@@ -1,0 +1,14 @@
+.menu {
+    flex: 0;
+    padding: 8px;
+    color: #0a0a0a;
+}
+
+.menu .menu-item {
+    margin-right: 8px;
+}
+
+.menu .menu-item.active {
+    font-weight: bold;
+    color: black;
+}

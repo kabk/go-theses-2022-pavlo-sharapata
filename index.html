@@ -1,37 +1,93 @@
 <!DOCTYPE html>
 <html>
-  <head>
+
+<head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Pavlo Sharapata Thesis</title>
     <link rel="stylesheet" href="styles/index.css" />
+    <link rel="stylesheet" href="styles/menu.css" />
+    <link rel="stylesheet" href="styles/images.css" />
     <link rel="stylesheet" href="styles/content.css" />
     <link rel="stylesheet" href="styles/footnotes.css" />
     <script src="https://unpkg.com/vue@3"></script>
     <script src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
     <script src="https://unpkg.com/markdown-it-footnote@3.0.3/dist/markdown-it-footnote.js"></script>
     <script type="module" src="scripts/index.js"></script>
-  </head>
+</head>
 
-  <body>
+<body>
     <div id="app">
-      <nav>
-        <div class="progress" :style="{ width: `${Navigator.scrollProgress}%` }">
-        </div>
-      </nav>
-      <header>
-        {{ Navigator.currentChapterTitle }}
-      </header>
-      <main>
-        <article v-for="(chapter, index) in Content.chapters" :index="index">
-          <span v-html="chapter.html"> </span>
-        </article>
-      </main>
-      <footer v-if="Footnotes.isFootnoteVisible" @click="Footnotes.hideFootnote()">
-        <span v-html="Footnotes.visibleFootnote.text">
+        <!-- navigation menu -->
+        <nav class="menu">
+            <span class="menu-item" v-for="chapter in Content.chapters"
+                :class="{ active: Navigator.isChapterActive(chapter) }">
+                {{ chapter.title }}
+                <br v-if="chapter.linebreak">
+            </span>
+            <span>
 
-        </span>
-      </footer>
+            </span>
+        </nav>
+
+        <!-- page content -->
+        <main>
+            <article v-for="(chapter, index) in Content.chapters" :index="index" :class="{ [chapter.className || 'chapter']: true }">
+                <h1>{{ chapter.title }}</h1>
+                <span v-html="chapter.content"> </span>
+            </article>
+
+            <!-- special chapter: footnotes -->
+            <article class="footnotes" v-if="!Content.isInitialized">
+                <div v-for="footnote in Footnotes.footnotes" class="footnote">
+                    <div class="number">
+                        ^{{ footnote.number }}
+                    </div>
+                    <div class="text" v-html="footnote.text">
+                    </div>
+                </div>    
+            </article>
+
+            <!-- special chapter: figures -->
+            <article class="figures" v-if="!Content.isInitialized">
+                <ul>
+                    <li v-for="image in Images.images" class="figure">
+                        <div>
+                            {{ image.name }}, {{ image.text.join(', ')}}
+                        </div>
+                        <div>
+                            <img :src="Images.getUrl(image)">
+                        </div>
+                    </li>
+                </ul>    
+            </article>
+        </main>
+
+        <!-- image popup -->
+        <section class="image-popup-overlay" v-if="Images.isVisible" @click="Images.hide()">
+            <ul class="image-data">
+                <li class="title">
+                    {{ Images.image.name }}
+                </li>
+                <li class="details" v-for="line in Images.image.text">
+                    {{ line }}
+                </li>
+            </ul>
+        </section>
+        <section class="image-popup" v-if="Images.isVisible" @click="Images.hide()">
+            <img :src="Images.imageUrl">
+        </section>
+
+        <!-- footnotes popup -->
+        <footer @click="Footnotes.hideFootnote()">
+            <div v-html="Footnotes.footnote.text">
+            </div>
+        </footer>
+        <div id="footer-helper">
+            <span v-html="Footnotes.footnote.text">
+            </span>
+        </div>
     </div>
-  </body>
+</body>
+
 </html>

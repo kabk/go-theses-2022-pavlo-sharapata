@@ -22,6 +22,11 @@ export const Navigator = reactive({
     return currentChapter ? currentChapter.title : ''
   },
 
+  // Returns true if the specified chapter is currently visible
+  isChapterActive (chapter) {
+    return this.currentChapterTitle == chapter.title
+  },  
+
   // Scrolling observer
   observer: null,
   // Scroll position
