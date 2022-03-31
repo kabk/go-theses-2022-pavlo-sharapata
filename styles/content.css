@@ -11,18 +11,24 @@
 }
 
 #app > main > article span > p {
-  flex: 1; 
+  flex: 1;
   padding: 0% 16% 0% 16%;
 }
 
 /* Special styling for some chapters */
-.bibliography ul {
+.chapter {
+}
+
+.chapter.bibliography {
+}
+
+.chapter.bibliography ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-
+/* Styling for elements within chapters */
 .full-height {
   flex: 1;
   display: flex;
@@ -42,5 +48,3 @@
   align-items: center;
   justify-content: center;
 }
-
-

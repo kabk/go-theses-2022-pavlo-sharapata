@@ -36,6 +36,13 @@
   padding: 8px;
 }
 
+/* Footnote link */
+.footnote-link {
+  text-decoration: none;
+  color: orangered;
+  cursor: pointer;
+}
+
 /* Footnote text */
 #app > footer span {
   flex: 1;

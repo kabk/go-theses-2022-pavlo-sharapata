@@ -20,10 +20,18 @@ export const Content = reactive({
     { title: 'The Truth', file: '04-the-truth.md', content: '',  },
     { title: 'The Cycle', file: '05-the-cycle.md', content: '' },
     { title: 'The Father', file: '05-the-cycle.md', content: '', linebreak: true },
-    { title: 'Footnotes', element: '.footnotes' },
-    { title: 'Bibliography', file: '07-bibliography.md', content: '', className: 'bibliography' },
-    { title: 'Figures', element: '.figures' },
+    { title: 'Footnotes', element: '.footnotes', chapterClass: 'footnotes'  },
+    { title: 'Bibliography', file: '07-bibliography.md', content: '', chapterClass: 'bibliography' },
+    { title: 'Figures', element: '.figures', chapterClass: 'figures'  },
   ],
+
+  // Returns custom CSS classes for the specified chapter
+  getCustomClass (chapter) {
+    const classText = (this.chapters[chapter].chapterClass || '')
+    return classText
+      .split(' ')
+      .reduce((all, item) => ({ ...all, [item]: true }), {})
+  },
 
   // Chapter count
   get count() {

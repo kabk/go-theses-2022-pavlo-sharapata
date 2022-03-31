@@ -1,3 +1,13 @@
+/* Figure link */
+a[href="#figure"] {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    color: orchid;
+    text-decoration: none;
+}
+
+/* Figure popup */
 .image-popup-overlay {
     position: absolute;
     z-index: 10000000;
@@ -26,13 +36,6 @@
 .image-popup img {
     max-width: 75vw;
     max-height: 75vh;
-}
-
-figure {
-    margin: 0;
-    padding: 0;
-    cursor: pointer;
-    color: orchid;
 }
 
 .image-data {

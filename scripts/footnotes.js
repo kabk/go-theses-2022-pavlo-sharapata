@@ -16,7 +16,7 @@ export const Footnotes = reactive({
 
   // Returns true if there is a footnote visible
   get isVisible () {
-    return this.footnote.id != null && this.footnote.isVisible 
+    return this.footnote.id != null && this.footnote.isVisible
   },
 
   // Height of the current footnote
@@ -38,12 +38,14 @@ export const Footnotes = reactive({
       const number = id.substring(2)
       const text = footnoteElement.innerHTML
       const footnote = { id, number, text }
-      this.footnotes.push(footnote)    
+      this.footnotes.push(footnote)
     }
 
     const footnoteLinks = document.querySelectorAll('a[id]')
     for (const link of Array.from(footnoteLinks)) {
       const footnoteId = link.getAttribute('href').substring(1)
+      link.innerHTML = footnoteId.substring(2)
+      link.className = 'footnote-link'
       link.setAttribute('href', '#')
       link.addEventListener('click', () => this.showFootnote(footnoteId))
     }
@@ -58,7 +60,7 @@ export const Footnotes = reactive({
   },
 
   // Hides the displayed footnote
-  hideFootnote () { 
+  hideFootnote () {
     this.footnote.isVisible = false
     this.footerElement.style.height = '0px'
   },

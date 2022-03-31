@@ -27,9 +27,9 @@ export const Images = reactive({
   initialize () {
     // find all <figure> element and link onclick event,
     // to show image popups
-    const figures = document.querySelectorAll('figure')
+    const figures = document.querySelectorAll('a[href="#figure"]')
     for (const figure of Array.from(figures)) {
-      const name = figure.getAttribute('name')
+      const name = figure.getAttribute('title')
       figure.addEventListener('click', () => {
         this.show(name)
       })
@@ -53,7 +53,7 @@ export const Images = reactive({
   getUrl (image) {
     if (image) {
       return `content/images/${image.file}`
-    } 
+    }
   },
 
   // Returns true if any image is currently visible

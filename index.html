@@ -37,24 +37,24 @@
             <article class="title full-height" >
                 <h1>Neohabitat</h1>
             </article>
-            <article v-for="(chapter, index) in Content.chapters" :index="index" :class="{ [chapter.className || 'chapter']: true }">
+            <article v-for="(chapter, index) in Content.chapters" :index="index" class="chapter" :class="Content.getCustomClass(index)">
                 <!-- <h1>{{ chapter.title }}</h1> -->
                 <span v-html="chapter.content"> </span>
             </article>
 
             <!-- special chapter: footnotes -->
-            <article class="footnotes" v-if="!Content.isInitialized">
+            <article class="chapter footnotes" v-if="!Content.isInitialized">
                 <div v-for="footnote in Footnotes.footnotes" class="footnote">
                     <div class="number">
                         ^{{ footnote.number }}
                     </div>
                     <div class="text" v-html="footnote.text">
                     </div>
-                </div>    
+                </div>
             </article>
 
             <!-- special chapter: figures -->
-            <article class="figures" v-if="!Content.isInitialized">
+            <article class="chapter figures" v-if="!Content.isInitialized">
                 <ul>
                     <li v-for="image in Images.images" class="figure">
                         <div>
@@ -64,7 +64,7 @@
                             <img :src="Images.getUrl(image)">
                         </div>
                     </li>
-                </ul>    
+                </ul>
             </article>
         </main>
 
