@@ -47,7 +47,7 @@ export const Footnotes = reactive({
       link.innerHTML = footnoteId.substring(2)
       link.className = 'footnote-link'
       link.setAttribute('href', '#')
-      link.addEventListener('click', () => this.showFootnote(footnoteId))
+      link.addEventListener('click', () => this.show(footnoteId))
     }
   },
 
@@ -60,13 +60,13 @@ export const Footnotes = reactive({
   },
 
   // Hides the displayed footnote
-  hideFootnote () {
+  hide () {
     this.footnote.isVisible = false
     this.footerElement.style.height = '0px'
   },
 
   // Displays the specified footnote
-  showFootnote (id) {
+  show (id) {
     // Render footnote text
     const text = this.getFootnote(id)
     this.footnote = { id, text, isVisible: text != null }

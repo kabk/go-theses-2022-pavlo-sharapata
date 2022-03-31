@@ -34,7 +34,7 @@
 
         <!-- page content -->
         <main>
-    
+
 
             <div class="credits">
             <h3> Pavlo Sharapata </h3><br>
@@ -88,15 +88,13 @@
             <img :src="Images.imageUrl">
         </section>
 
-        <!-- footnotes popup -->
-        <footer @click="Footnotes.hideFootnote()">
-            <div v-html="Footnotes.footnote.text">
-            </div>
-        </footer>
-        <div id="footer-helper">
-            <span v-html="Footnotes.footnote.text">
-            </span>
-        </div>
+        <!-- footnote popup -->
+        <section class="footnote-popup-overlay" v-if="Footnotes.isVisible" @click="Footnotes.hide()">
+        </section>
+        <section class="footnote-popup" v-if="Footnotes.isVisible" @click="Footnotes.hide()">
+          <div class="footnote" v-html="Footnotes.footnote.text">
+          </div>
+        </section>
     </div>
 </body>
 

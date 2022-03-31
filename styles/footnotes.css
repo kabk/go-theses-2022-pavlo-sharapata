@@ -2,45 +2,11 @@
   line-height: 0.5;
 }
 
-
-
-
 /* Hide standard rendering of footnote links and texts */
 .footnotes,
 .footnotes-sep,
 .footnote-backref {
   display: none;
-}
-
-/* Footnote container */
-#app > footer {
-  position: fixed;
-  bottom: 0px;
-  height: 0px;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  z-index: 100000;
-  background-color: silver;
-  border-top: solid silver 2px;
-  box-shadow: 0 0 8px gray;
-  cursor: pointer;
-  transition: all ease-out 0.3s;
-}
-
-#app > footer > div {
-  padding: 8px;
-}
-
-/* Hidden placeholder for footnotes, used to evaluate the height of dynamically changing text */
-#footer-helper {
-  opacity: 0;
-  position: fixed;
-  bottom: -1000px;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  padding: 8px;
 }
 
 /* Footnote link */
@@ -50,12 +16,7 @@
   cursor: pointer;
 }
 
-/* Footnote text */
-#app > footer span {
-  flex: 1;
-}
-
-/* All-footnotes special chapter.
+/* Special chapter displaying all footnotes.
    Not visible on its own, as its rendered by Content service */
 .footnotes {
 }
@@ -79,4 +40,38 @@
 
 .footnotes .footnote .text p {
   margin: 0;
+}
+
+/* Footnote popup */
+.footnote-popup-overlay {
+    position: absolute;
+    z-index: 10000000;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: white;
+    opacity: 0.95;
+}
+
+.footnote-popup {
+    position: absolute;
+    z-index: 10000001;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.footnote-popup .footnote {
+  width: 50vw;
+  height: 50vh;
+  background-color: white;
+  border: solid black 1px;
+  padding: 32px;
 }
