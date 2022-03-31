@@ -1,3 +1,10 @@
+.footnote-ref {
+  line-height: 0.5;
+}
+
+
+
+
 /* Hide standard rendering of footnote links and texts */
 .footnotes,
 .footnotes-sep,

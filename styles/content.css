@@ -27,10 +27,10 @@
 .chapter {
   display: flex;
   flex-direction: column;
-  padding:7.5% 20% 7.5% 20%;
+  padding:7.5% 16.66% 7.5% 16.66%;
   font-size: 20px;
-  line-height: 21px;
-  color:darkgreen;
+  line-height: 21.5px;
+  color:rgb(0, 0, 0);
 }
 
 .chapter.full-height {
@@ -54,10 +54,8 @@
 }
 
 .subchapter {
-  font-size: 13px;
-  color: blue;  
   flex: 1;
-  margin-left: -33%;
+  margin-left: -25%;
   padding-top: 100px;
   padding-bottom: 100px;
 } 

@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'TWK Lausanne 800';
-    src: url('../fonts/TWKLausannePan-800.woff2') format('woff2'),
-        url('../fonts/TWKLausannePan-800.woff') format('woff');
+    font-family: 'TWK Lausanne 700';
+    src: url('../fonts/TWKLausannePan-700.woff2') format('woff2'),
+        url('../fonts/TWKLausannePan-700.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -11,22 +11,24 @@
 
 h1 {
   color: orange;  
+  font-size: 20px;
   font-weight: normal;
 }
 
 
 h2 {
-  color: blue;  
+  color: red;  
+  font-size: 20px;
   font-weight: normal;
   margin-bottom: 100px;
   text-align: center;
 }
 
 h3 {
-  color:blueviolet;
-  font-weight: normal;
-  font-size: 15px;
+  padding-left: 6px;
+  color: #0a0a0a;
+  font-size: 13px;
   line-height: 0px;
-  margin: 0;
-  padding-left: 8px;
+  margin: 0px;
+  margin-top: -2px;
 }
