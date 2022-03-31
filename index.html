@@ -34,9 +34,14 @@
 
         <!-- page content -->
         <main>
-            <article class="title full-height" >
-                <h1>Neohabitat</h1>
-            </article>
+    
+
+            <div class="credits">
+            <h3> Pavlo Sharapata </h3><br>
+            <h3> Pavlo Sharapata </h3><br>
+            <h3> Pavlo Sharapata </h3><br>
+            </div>
+
             <article v-for="(chapter, index) in Content.chapters" :index="index" class="chapter" :class="Content.getCustomClass(index)">
                 <!-- <h1>{{ chapter.title }}</h1> -->
                 <span v-html="chapter.content"> </span>

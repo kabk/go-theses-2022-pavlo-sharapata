@@ -7,19 +7,26 @@
     font-display: swap;
 }
 
-#app > main > article span > p {
-    font-size: 20px;
-    line-height: 21px;
-    color:darkgreen;
-}
-
-.subchapter {
-  font-size: 13px;
-  color: blue;
-}
 
 
 h1 {
   color: orange;  
   font-weight: normal;
+}
+
+
+h2 {
+  color: blue;  
+  font-weight: normal;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+h3 {
+  color:blueviolet;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 0px;
+  margin: 0;
+  padding-left: 8px;
 }

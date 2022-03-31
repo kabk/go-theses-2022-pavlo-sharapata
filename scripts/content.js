@@ -13,13 +13,14 @@ export const Content = reactive({
   // - Define special chapter whose content is in HTML, using `element` parameter
   // - Define custom CSS class for chapter, using `className` parameter
   chapters: [
-    { title: 'Abstract', file: '00-abstract.md', content: '' },
+    { title: 'Neohabitat', file: '00-title.md', content: '', chapterClass: 'center full-height'  },
+    { title: 'Abstract', file: '00-abstract.md', content: '', chapterClass: ''},
     { title: 'Introduction', file: '01-introduction.md', content: '' },
     { title: 'Methods', file: '02-methods.md', content: '', linebreak: true },
     { title: 'The Origin', file: '03-the-origin.md', content: '' },
     { title: 'The Truth', file: '04-the-truth.md', content: '',  },
     { title: 'The Cycle', file: '05-the-cycle.md', content: '' },
-    { title: 'The Father', file: '05-the-cycle.md', content: '', linebreak: true },
+    { title: 'The Fossil', file: '06-the-fossil.md', content: '', linebreak: true },
     { title: 'Footnotes', element: '.footnotes', chapterClass: 'footnotes'  },
     { title: 'Bibliography', file: '07-bibliography.md', content: '', chapterClass: 'bibliography' },
     { title: 'Figures', element: '.figures', chapterClass: 'figures'  },

@@ -1,4 +1,4 @@
-#app > main > article {
+/* #app > main > article {
   padding: 8px;
   display: flex;
   flex-direction: column;
@@ -13,13 +13,58 @@
 #app > main > article span > p {
   flex: 1;
   padding: 0% 16% 0% 16%;
-}
+} */
+
+
+.credits {
+  flex: 1;
+  z-index: 99;
+  padding-top: 20px;
+} 
+
 
 /* Special styling for some chapters */
 .chapter {
+  display: flex;
+  flex-direction: column;
+  padding:7.5% 20% 7.5% 20%;
+  font-size: 20px;
+  line-height: 21px;
+  color:darkgreen;
 }
 
+.chapter.full-height {
+  min-height: 95vh;
+}
+
+.chapter.half-height {
+  min-height: 50vh;
+}
+
+.chapter.quarter-height {
+  min-height: 25vh;
+}
+
+.chapter.no-padding {
+  padding:0;
+}
+
+
 .chapter.bibliography {
+}
+
+.subchapter {
+  font-size: 13px;
+  color: blue;  
+  flex: 1;
+  margin-left: -33%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+} 
+
+.chapter .quote {
+ background-color: yellow;
+ padding: 0 25% 0 25%;
 }
 
 .chapter.bibliography ul {
@@ -28,23 +73,15 @@
   padding: 0;
 }
 
+.chapter.figures {
+}
+
 /* Styling for elements within chapters */
-.full-height {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
 
-.quarter-height {
-  flex: 1;
-  flex-basis: 25vh;
-  display: flex;
+.chapter.center {
   flex-direction: column;
-}
-
-.centered {
+  flex-basis: 100%;
+  display: flex;
   align-items: center;
   justify-content: center;
 }
