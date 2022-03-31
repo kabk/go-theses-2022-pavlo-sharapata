@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../Downloads/go-theses-22-julia-waraksa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "go-theses-22-pavlo-sharapata"
+	}
+}

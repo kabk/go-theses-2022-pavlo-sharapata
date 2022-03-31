@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'TWK Lausanne 800';
+    src: url('../fonts/TWKLausannePan-800.woff2') format('woff2'),
+        url('../fonts/TWKLausannePan-800.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+#app > main > article span > p {
+    font-size: 20px;
+    line-height: 21px;
+    color:darkgreen;
+}
+
+.subchapter {
+  font-size: 13px;
+  color: blue;
+}
+
+
+h1 {
+  color: orange;  
+  font-weight: normal;
+}

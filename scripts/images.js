@@ -9,16 +9,16 @@ export const Images = reactive({
   images: [
     {
       name: 'Figure 1', file: '00-image.jpg', text: [
-        'Bla bla bla',
+        'Text',
         '2009',
-        '(c) Bob Marley'
+        '(c)'
       ]
     },
     {
       name: 'Figure 2', file: '01-cat.jpg', text: [
-        'Ble ble ble',
+        'Text',
         '2019',
-        '(c) Sjonnie'
+        '(c)'
       ]
     }
   ],

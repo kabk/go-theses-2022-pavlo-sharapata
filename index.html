@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="styles/menu.css" />
     <link rel="stylesheet" href="styles/images.css" />
     <link rel="stylesheet" href="styles/content.css" />
+    <link rel="stylesheet" href="styles/fonts.css" />
+    <link rel="stylesheet" href="styles/mobile.css" />
     <link rel="stylesheet" href="styles/footnotes.css" />
     <script src="https://unpkg.com/vue@3"></script>
     <script src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
@@ -32,8 +34,11 @@
 
         <!-- page content -->
         <main>
+            <article class="title full-height" >
+                <h1>Neohabitat</h1>
+            </article>
             <article v-for="(chapter, index) in Content.chapters" :index="index" :class="{ [chapter.className || 'chapter']: true }">
-                <h1>{{ chapter.title }}</h1>
+                <!-- <h1>{{ chapter.title }}</h1> -->
                 <span v-html="chapter.content"> </span>
             </article>
 

@@ -1,0 +1,13 @@
+
+@media (max-width: 960px) {
+
+    .column {
+      width: 100%;
+    }
+  
+    .two-columns {
+      flex-direction: column;
+    }
+    
+  }
+  
