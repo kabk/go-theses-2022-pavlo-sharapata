@@ -1,5 +1,6 @@
 const { reactive } = window.Vue
 const { markdownit, markdownitFootnote } = window
+import { Footnotes } from './footnotes.js'
 
 /**
  * Access to website content - chapters etc.
@@ -13,45 +14,60 @@ export const Content = reactive({
   // - Define special chapter whose content is in HTML, using `element` parameter
   // - Define custom CSS class for chapter, using `className` parameter
   chapters: [
-    { title: 'Neohabitat', file: '00-title.md', content: '', chapterClass: 'center full-height'  },
-    { title: 'Abstract,', file: '00-abstract.md', content: '', chapterClass: ''},
-    { title: 'Introduction,', file: '01-introduction.md', content: '' },
-    { title: 'Methods', file: '02-methods.md', content: '', linebreak: true },
+    { title: 'Neohabitat', file: '00-title.md', content: '', chapterClass: 'center full-height', showInMenu: false },
+    { title: 'Abstract,', file: '00-abstract.md', content: '', chapterClass: '' },
+    { title: 'Methods,', file: '01-methods.md', content: '' },
+    { title: 'Introduction,', file: '02-introduction.md', content: '', linebreak: true },
     { title: 'The Origin,', file: '03-the-origin.md', content: '' },
-    { title: 'The Truth,', file: '04-the-truth.md', content: '',  },
+    { title: 'The Truth,', file: '04-the-truth.md', content: '', },
     { title: 'The Cycle,', file: '05-the-cycle.md', content: '' },
     { title: 'The Fossil', file: '06-the-fossil.md', content: '', linebreak: true },
     { title: 'Conclusion,', file: '07-conclusion.md', content: '', chapterClass: '' },
-    { title: 'Footnotes,', element: '.footnotes', chapterClass: 'footnotes'  },
+    { title: 'Footnotes,', chapterClass: 'all-footnotes', content: () => Footnotes.getFootnotesList() },
     { title: 'Bibliography,', file: '07-bibliography.md', content: '', chapterClass: 'bibliography' },
-    { title: 'Figures', element: '.figures', chapterClass: 'figures'  },
+    { title: 'Figures', element: '.figures', chapterClass: 'figures' },
   ],
+
+  // List of chapters which should be visible in the main menu.
+  // To hide a chapter, set its `showInMenu` flag to `false`
+  get menuChapters () {
+    return this.chapters.filter(chapter => chapter.showInMenu != false)
+  },
+
+  // Returns chapter text coming from another hidden HTML element
+  getChapterContent (chapter) {
+    if (typeof chapter.content === 'function') {
+      return chapter.content()
+    } else {
+      return chapter.content
+    }
+  },
 
   // Returns custom CSS classes for the specified chapter
   getCustomClass (chapter) {
-    const classText = (this.chapters[chapter].chapterClass || '')
+    const classText = (chapter.chapterClass || '')
     return classText
       .split(' ')
       .reduce((all, item) => ({ ...all, [item]: true }), {})
   },
 
   // Chapter count
-  get count() {
+  get count () {
     return this.chapters.length
   },
 
   // First chapter
-  get firstChapter() {
+  get firstChapter () {
     return this.chapters[0]
   },
 
   // Last chapter
-  get lastChapter() {
+  get lastChapter () {
     return this.chapters[this.chapters.length - 1]
   },
 
   // Loads HTML-ized content of the specified chapter
-  async loadChapter(index) {
+  async loadChapter (index) {
     const chapter = this.chapters[index]
 
     if (chapter.file) {
@@ -67,21 +83,15 @@ export const Content = reactive({
       chapter.content = markdown.render(text)
 
     } else if (chapter.element) {
-      // chapter content comes from html element
-      const element = document.querySelector(chapter.element)
-      if (element) {
-        chapter.content = element.innerHTML
-        chapter.className = element.className
-        element.style.display = 'none'
-        element.content = ''
-      }
+      // Chapter content coming from html element
+      // will be resolved dynamically, when `getChapterContent` is called.
     }
 
     return chapter
   },
 
   // Loads the content of all chapters
-  async initialize() {
+  async initialize () {
     this.isInitialized = false
     const all = []
     for (let i = 0; i < this.count; i++) {

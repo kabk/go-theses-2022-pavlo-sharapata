@@ -25,7 +25,7 @@ export const Navigator = reactive({
   // Returns true if the specified chapter is currently visible
   isChapterActive (chapter) {
     return this.currentChapterTitle == chapter.title
-  },  
+  },
 
   // Scrolling observer
   observer: null,
@@ -50,13 +50,14 @@ export const Navigator = reactive({
   // creates observers which will trigger, when chapter comes in view.
   initialize () {
     this.container = document.querySelector('main')
+
     let options = {
       root: this.container,
       threshold: 0.3
-    } 
-    
+    }
+
     this.observer = new IntersectionObserver(
-      entries => this.onChapterShown(entries), 
+      entries => this.onChapterShown(entries),
       options
     )
 
@@ -75,7 +76,7 @@ export const Navigator = reactive({
     const visibleChapter = entries.find(e => e.isIntersecting)
 
     if (visibleChapter) {
-      // Detect into which chapter we have scrolled 
+      // Detect into which chapter we have scrolled
       const element = visibleChapter.target
       const index = parseInt(element.getAttribute('index'))
       this.currentIndex = index

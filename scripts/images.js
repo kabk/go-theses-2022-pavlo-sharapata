@@ -20,6 +20,13 @@ export const Images = reactive({
         '2019',
         '(c)'
       ]
+    },
+    {
+      name: 'Strata Image', file: '1.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
     }
   ],
 

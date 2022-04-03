@@ -22,7 +22,7 @@
     <div id="app">
         <!-- navigation menu -->
         <nav class="menu">
-            <span class="menu-item" v-for="chapter in Content.chapters"
+            <span class="menu-item" v-for="chapter in Content.menuChapters"
                 :class="{ active: Navigator.isChapterActive(chapter) }">
                 {{ chapter.title }}
                 <br v-if="chapter.linebreak">
@@ -34,24 +34,22 @@
 
         <!-- page content -->
         <main>
-            
             <div class="credits">
                 <h3> Pavlo Sharapata </h3><br>
                 <h3> Royal Academy of Art, The Hague </h3><br>
                 <h3> Graphic Design, 2022 </h3><br>
-                </div>
+            </div>
 
-
-            <article v-for="(chapter, index) in Content.chapters" :index="index" class="chapter" :class="Content.getCustomClass(index)">
-                <!-- <h1>{{ chapter.title }}</h1> -->
-                <span v-html="chapter.content"> </span>
+            <article v-for="(chapter, index) in Content.chapters" :index="index" class="chapter" :class="Content.getCustomClass(chapter)">
+              <span v-html="Content.getChapterContent(chapter)">
+              </span>
             </article>
 
             <!-- special chapter: footnotes -->
-            <article class="chapter footnotes" v-if="!Content.isInitialized">
+            <article class="chapter all-footnotes-content">
                 <div v-for="footnote in Footnotes.footnotes" class="footnote">
                     <div class="number">
-                        ^{{ footnote.number }}
+                      ^{{ footnote.number }}
                     </div>
                     <div class="text" v-html="footnote.text">
                     </div>

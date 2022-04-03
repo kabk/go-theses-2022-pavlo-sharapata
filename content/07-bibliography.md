@@ -6,8 +6,8 @@
 
 </div>
 
-*On Progress in History (From the First Lecture to King Maximilian II of Bavaria ‘On the Epochs of Modern History’, 1854)*. <br>
-The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;24. 2011.<br>
+*On Progress in History (From the First Lecture to King Maximilian II of Bavaria “&hairsp;On the Epochs of Modern History&hairsp;&hairsp;”*. <br>
+The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;24, (2011).<br>
 
 <div class="subchapter">
 
@@ -15,8 +15,8 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*What Does “Deep Time” Mean to You?*. Smithsonian Magazine, 2014.<br>
-smithsonianmag.com/science-nature/what-does-deep-time-mean-to-you-180952603/
+*What Does “&hairsp;Deep Time&hairsp;” Mean to You?*. Smithsonian Magazine, (2014). [[&hairsp;↗&hairsp;]](https://www.smithsonianmag.com/science-nature/what-does-deep-time-mean-to-you-180952603/)
+
 
 <div class="subchapter">
 
@@ -24,8 +24,8 @@ smithsonianmag.com/science-nature/what-does-deep-time-mean-to-you-180952603/
 
 </div>
 
-*What is the Baader-Meinhof Phenomenon?* &hairsp;Macquarie University. 2020. <br>
-lighthouse.mq.edu.au/article/july-2020/What-is-the-Baader-Meinhof-Phenomenon
+*What is the Baader-Meinhof Phenomenon?* &hairsp;Macquarie University, (2020). [[&hairsp;↗&hairsp;]](https://www.lighthouse.mq.edu.au/article/july-2020/What-is-the-Baader-Meinhof-Phenomenon)
+
 
 <div class="subchapter">
 
@@ -33,8 +33,10 @@ lighthouse.mq.edu.au/article/july-2020/What-is-the-Baader-Meinhof-Phenomenon
 
 </div>
 
-*Geological Time Scale*. The Digital Atlas of Ancient Life. 2013. <br>
-digitalatlasofancientlife.org/learn/geological-time/geological-time-scale/
+*Geological Time Scale*. The Digital Atlas of Ancient Life, (2013). [[&hairsp;↗&hairsp;]](https://www.digitalatlasofancientlife.org/learn/geological-time/geological-time-scale/)
+
+
+
 
 <div class="subchapter">
 
@@ -42,8 +44,8 @@ digitalatlasofancientlife.org/learn/geological-time/geological-time-scale/
 
 </div>
 
-*Kiev's Soviet-Era Metro System, Home to the Deepest Subway Station in the World*. &hairsp;Business Insider Nederland. 2019.  <br>
-businessinsider.nl/kiev-ukraine-soviet-era-metro-system-beautiful-deepest-world-2019-9?international=true&r=US.<br>
+*Kiev's Soviet-Era Metro System, Home to the Deepest Subway Station in the World*. &hairsp;Business Insider Nederland, (2019). 
+[[&hairsp;↗&hairsp;]](https://www.businessinsider.nl/kiev-ukraine-soviet-era-metro-system-beautiful-deepest-world-2019-9?international=true&r=US.)<br>
 
 <div class="subchapter">
 
@@ -51,8 +53,8 @@ businessinsider.nl/kiev-ukraine-soviet-era-metro-system-beautiful-deepest-world-
 
 </div>
 
-*Cretaceous Period.* &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc. 1999.  <br>
-britannica.com/science/Cretaceous-Period. <br>
+*Cretaceous Period.* &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc., (1999). 
+[[&hairsp;↗&hairsp;]](https://www.britannica.com/science/Cretaceous-Period.) <br>
 
 <div class="subchapter">
 
@@ -60,8 +62,8 @@ britannica.com/science/Cretaceous-Period. <br>
 
 </div>
 
-*Ontogenetic Trajectories of Septal Spacing in Early Jurassic Belemnites from Germany and France, and Their Palaeobiological Implications.* &hairsp;Wiley Online Library, John Wiley & Sons, Ltd. 2017. <br>
-onlinelibrary.wiley.com/doi/10.1111/pala.12327. <br>
+*Ontogenetic Trajectories of Septal Spacing in Early Jurassic Belemnites from Germany and France, and Their Palaeobiological Implications.* &hairsp;Wiley Online Library, John Wiley & Sons, Ltd., (2017). 
+[[&hairsp;↗&hairsp;]](https://www.onlinelibrary.wiley.com/doi/10.1111/pala.12327.) <br>
 
 <div class="subchapter">
 
@@ -69,8 +71,8 @@ onlinelibrary.wiley.com/doi/10.1111/pala.12327. <br>
 
 </div>
 
- *Volcanoes May Have Helped Life Bounce Back after Dinosaur-Killing Asteroid Strike*. &hairsp;Science, National Geographic. 2021.<br> 
- nationalgeographic.com/science/article/volcanoes-helped-life-bounce-back-afterdinosaur-killing-asteroid. 
+ *Volcanoes May Have Helped Life Bounce Back after Dinosaur-Killing Asteroid Strike*. &hairsp;Science, National Geographic, (2021).
+ [[&hairsp;↗&hairsp;]](https://www.nationalgeographic.com/science/article/volcanoes-helped-life-bounce-back-afterdinosaur-killing-asteroid.) 
 
 <div class="subchapter">
 
@@ -78,8 +80,8 @@ onlinelibrary.wiley.com/doi/10.1111/pala.12327. <br>
 
 </div>
 
-*Fossil*. &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc. 2014. <br>
-britannica.com/science/fossil. 
+*Fossil*. &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc., (2014).
+[[&hairsp;↗&hairsp;]](https://www.britannica.com/science/fossil. )
 
 <div class="subchapter">
 
@@ -87,8 +89,8 @@ britannica.com/science/fossil.
 
 </div>
 
-*Fossil Record*. Encyclopædia Britannica, Encyclopædia Britannica, Inc. 2012.<br>
-britannica.com/science/fossil-record
+*Fossil Record*. Encyclopædia Britannica, Encyclopædia Britannica, Inc., (2012).
+[[&hairsp;↗&hairsp;]](https://www.britannica.com/science/fossil-record)
 
 <div class="subchapter">
 
@@ -96,8 +98,8 @@ britannica.com/science/fossil-record
 
 </div>
 
-*Fossil Record.* &hairsp;National Geographic Society. 2011. <br>
-nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page=25.
+*Fossil Record.* &hairsp;National Geographic Society, (2011). 
+[[&hairsp;↗&hairsp;]](https://www.nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page=25.)
 
 <div class="subchapter">
 
@@ -105,7 +107,7 @@ nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page
 
 </div>
 
-*Concrete Planet: The Strange and Fascinating Story of the World's Most Common Man-Made Material*. Prometheus Books, p. 86. 2011. 
+*Concrete Planet: The Strange and Fascinating Story of the World's Most Common Man-Made Material*. Prometheus Books, p. 86, (2011). 
 
 <div class="subchapter">
 
@@ -113,7 +115,7 @@ nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page
 
 </div>
 
-*Oldest Concrete Street in the United States Concrete International*, 2002. 
+*Oldest Concrete Street in the United States Concrete International*, (2002). 
 
 <div class="subchapter">
 
@@ -121,7 +123,7 @@ nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page
 
 </div>
 
-*The True Principles of Pointed Or Christian Architecture: Set Forth in Two Lectures Delivered at St. Marie's*, Oscott. J. Weale (the University of Michigan), pp. 1&hairsp;–&hairsp;2. 1841.<br>
+*The True Principles of Pointed Or Christian Architecture: Set Forth in Two Lectures Delivered at St. Marie's*, Oscott. J. Weale (the University of Michigan), pp. 1&hairsp;–&hairsp;2, (1841).<br>
 
 <div class="subchapter">
 
@@ -129,7 +131,7 @@ nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page
 
 </div>
 
-*Limestone in Post-War British Architecture: Is It a Plea for a Return to Pugin?*. Melita Theologica, p. 77. 1998. <br>
+*Limestone in Post-War British Architecture: Is It a Plea for a Return to Pugin?*&hairsp; Melita Theologica, p. 77, (1998). <br>
 
 <div class="subchapter">
 
@@ -137,7 +139,7 @@ nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page
 
 </div>
 
-*Unit One: Spirit of the 30's, May-June 1984: An Exhibition to Celebrate the Half Centenary of the First Unit One Exhibition Held at the Mayor Gallery* Mayor Gallery, 1934.  <br>
+*Unit One: Spirit of the 30's, May-June 1984: An Exhibition to Celebrate the Half Centenary of the First Unit One Exhibition Held at the Mayor Gallery* Mayor Gallery, (1934).  <br>
 
 <div class="subchapter">
 
@@ -145,7 +147,7 @@ nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page
 
 </div>
 
-*Principles of Sedimentology and Stratigraphy*, Pearson Prentice Hall, Upper Saddle River, N.J. pp. 177&hairsp;–&hairsp;181. 2006
+*Principles of Sedimentology and Stratigraphy*, Pearson Prentice Hall, Upper Saddle River, N.J. pp. 177&hairsp;–&hairsp;181, (2006).
 
 <div class="subchapter">
 
@@ -153,7 +155,7 @@ nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page
 
 </div>
 
-*Decorative Stone: The Complete Sourcebook*. Thames and Hudson, pp. 288. 2007.
+*Decorative Stone: The Complete Sourcebook*. Thames and Hudson, pp. 288, (2007).
 
 <div class="subchapter">
 
@@ -161,8 +163,8 @@ nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page
 
 </div>
 
-*Most species that disappear today will leave no trace in the fossil record*. Science Org. 2016.<br>
-science.org/content/article/most-species-disappear-today-will-leave-no-trace-fossil-record
+*Most species that disappear today will leave no trace in the fossil record*. Science Org., (2016).
+[[&hairsp;↗&hairsp;]](https://www.science.org/content/article/most-species-disappear-today-will-leave-no-trace-fossil-record)
 
 <div class="subchapter">
 
@@ -170,6 +172,6 @@ science.org/content/article/most-species-disappear-today-will-leave-no-trace-fos
 
 </div>
 
-*Understanding biomineralization in the fossil record*. Science Direct Journal. 2018.<br>
-sciencedirect.com/science/article/abs/pii/S0012825217305068
+*Understanding biomineralization in the fossil record*. Science Direct Journal, (2018).
+[[&hairsp;↗&hairsp;]](https://www.sciencedirect.com/science/article/abs/pii/S0012825217305068)
 

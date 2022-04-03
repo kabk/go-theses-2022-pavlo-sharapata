@@ -40,7 +40,7 @@ The reason why *Truth to Materials* &hairsp;theory is so relevant in the context
 <br>
 
 <div class="quote">
-“&hairsp;…architects are aware that the building stones have fossils, and one of the most common types of natural stones used in construction is limestone, which architects know are generally formed of biological remains. I am sure that there are exceptions, but architects do not usually seem to be focused on the age or identity of the fossils or the environment in which they were deposited, they are usually more concerned about other characteristics of the stone. The geological origins of the stone and the nature of the fossils do not seem to play a role in the selection of the stones, as a general matter.&hairsp;”
+“&hairsp;…architects are aware that the building stones have fossils, and one of the most common types of natural stones used in construction is Limestone, which architects know are generally formed of Biological remains. I am sure that there are exceptions, but architects do not usually seem to be focused on the age or identity of the fossils or the environment in which they were deposited, they are usually more concerned about other characteristics of the stone. The Geological origins of the stone and the nature of the fossils do not seem to play a role in the selection of the stones, as a general matter.&hairsp;”
 </div>
 
 </div><br>

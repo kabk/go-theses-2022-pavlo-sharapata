@@ -23,17 +23,21 @@ The reason why these organisms have been preserved in such an excellent conditio
 <div class="quote">
 
 Today&hairsp;—&hairsp;we call them fossils.  <br>
-Noun: *fossil* &hairsp;(&hairsp;fos·​sil&hairsp;)<br>
+Noun: *fossil* &hairsp;(&hairsp;fos-​sil&hairsp;)<br>
 From Classical Latin: *fossilis*, literally '&hairsp;obtained by digging&hairsp;'<br>
 English pronunciation: [*fo-sl* ]  <br>
 American pronunciation: [*faa-sl* ]   <br>
 
 </div>
 
-<br>Fossil, remnant, impression, or trace of an animal or plant of a past geologic age that has been preserved in Earth's crust. The complex of data recorded in fossils worldwide, known as the *fossil record*, is the primary source of information about the history of life on Earth. Meaning that this record can be read by experts. This record lets all paleontologists, archaeologists, and geologists place events and species in their relevant geologic Era. As National Geographic Library explains: <br>
+<br>Fossil, remnant, impression, or trace of an animal or plant of a past geologic age that has been preserved in Earth's crust. The complex of data recorded in fossils worldwide, known as the *fossil record*, is the primary source of information about the history of life on Earth. Meaning that this record can be read by experts. This record lets all paleontologists, archaeologists, and geologists place events and species in their relevant Geologic Era. As National Geographic Library explains: <br>
 <br>
 
-The fossil record is based on the Law of Superposition, which states that in undisturbed rock sequences the bottom layers are older than the top layers. Therefore, some discovered fossils are able to be dated according to the strata, a distinct layer of rock, that they are found in. <br>
+<div class="quote">
+
+“&hairsp;&hairsp;The fossil record is based on the *Law of Superposition*, which states that in undisturbed rock sequences the bottom layers are older than the top layers. Therefore, some discovered fossils are able to be dated according to the strata, a distinct layer of rock, that they are found in.&hairsp;” <br>
+
+</div>
 
 <div class="subchapter">
 
@@ -41,7 +45,7 @@ The fossil record is based on the Law of Superposition, which states that in un
 
 </div>
 
-A term *fossil*, as mentioned, is derived from the Lingva Latina as *fossilis*, which means 'obtained by digging'. But not all fossils are actually obtained by digging&hairsp;—&hairsp;because we, humans, are also responsible for creating them from the get-go. Little did two inventors Joseph Aspdin and George Bartholomew know, that together with the first patent for cement manufacture (*Portland cement*, 1824) and the first concrete paved street in the United States (*Court Avenue*, 1893), they had unintentionally created perfect conditions for contemporary fossil preservation. Later this material will be used on an unimaginably gigantic scale, and today&hairsp;—&hairsp;it is absolutely impossible to imagine a street or a structure which is built without the use of this component. Now it is the second most used and consumed matter after water on our planet. It is used twice more than steel, wood, aluminum and plastic combined.<br>
+A term *fossil*, as mentioned earlier, is derived from the Lingva Latina as *fossilis*, which means '&hairsp;obtained by digging&hairsp;'. But not all fossils are actually obtained by digging&hairsp;—&hairsp;because we, humans, are also responsible for creating them from the get-go. Little did two inventors Joseph Aspdin and George Bartholomew know, that together with the first patent for cement manufacture (*Portland cement*, 1824) and the first concrete paved street in the United States (*Court Avenue*, 1893), they had unintentionally created perfect conditions for contemporary fossil preservation. Later this material will be used on an unimaginably gigantic scale, and today&hairsp;—&hairsp;it is absolutely impossible to imagine a street or a structure which is built without the use of this component. Now it is the second most used and consumed matter after water on our planet. It is used twice more than steel, wood, aluminum and plastic combined.<br>
 <br>
 
 I suppose we have all been lucky to look down once at our shoes and accidentally notice those little tracks left in wet concrete by a bird, a cat, a dog or any other street walking animal. And not only by an animal! The material is also able to conserve imprints of fallen leaves and branches, grass or seaweed, sand, rocks and even signs of weather like heavy wind, extreme heat, rain or lightning strikes. This is an ideal example of how a composite material of aggregates mixed together with some fluid cement can be even more efficient in preserving prints than the soft Jurassic ground that dinosaurs were stomping and leaving traces on.
@@ -52,10 +56,10 @@ I suppose we have all been lucky to look down once at our shoes and accidentally
 
 </div>
 
-The only difference between track fossils and actual preserved remains is that it is much harder to identify an animal by only studying the footprint. Some of them might have very similar anatomies, structures of the feet, similarities in claws, paws, toes and so on. Because of lack of studies in urban Paleontology, specificity of the field and the obscurity overall&hairsp;—&hairsp;there are not many conclusions we can draw based on any information that concrete provides us with. When the evidence is so small&hairsp;—&hairsp;it is very easy to misinterpret what we see, which makes this process somewhat similar to the inspection of the prehistoric footprints.<br>
+The only difference between track fossils (a fossilized footprint) and actual preserved remains is that it is much harder to identify an animal by only studying the footprint. Some of them might have very similar anatomies, structures of the feet, similarities in claws, paws, toes and so on. Because of lack of studies in urban Paleontology, specificity of the field and the obscurity overall&hairsp;—&hairsp;there are not many conclusions we can draw based on any information that concrete provides us with. When the evidence is so small&hairsp;—&hairsp;it is very easy to misinterpret what we see, which makes this process somewhat similar to the inspection of the prehistoric footprints.<br>
 <br>
 
-Preserved remains of ancient mollusk organisms, however, are much easier to characterize today due to an extensive data sets scientists had been busy updating since as early as the 6th century B.C. In fact, it impressive how much we have learned since then. We have assigned them into Orders and organized them in Kingdoms, Phylums, Classes and Subclasses. We have managed to identify their lifespans millions of years after they were gone. We understood how their nervous system worked, what their favorite food was, and how they behaved. Not only they turned out to be time capsules to oceans’ pristine past, but also gave us a useful insight into the whole history of marine organisms.<br>
+Preserved remains of ancient mollusk organisms, however, are much easier to characterize today due to an extensive data sets scientists had been busy updating since as early as the 6th century B.C. In fact, it impressive how much we have learned since then. We have assigned them into Orders and organized them in Kingdoms, Phylums, Classes and Subclasses. We have managed to identify their lifespans millions of years after they were gone. We understood how their nervous system worked, what their favorite food was, and how they behaved. Not only they turned out to be time capsules to our oceans' pristine past, but also gave us a useful insight into the whole history of marine organisms.<br>
 <br>
 
 But how did these biological remains of prehistoric life get trapped in our man-made landscapes? <br>

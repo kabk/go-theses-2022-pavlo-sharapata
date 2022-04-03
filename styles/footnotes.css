@@ -16,9 +16,12 @@
   cursor: pointer;
 }
 
-/* Special chapter displaying all footnotes.
-   Not visible on its own, as its rendered by Content service */
-.footnotes {
+/* Special chapter displaying all footnotes */
+.all-footnotes-content {
+  display: none;
+}
+
+.all-footnotes {
 }
 
 .footnotes .footnote {

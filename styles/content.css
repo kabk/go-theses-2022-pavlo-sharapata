@@ -21,7 +21,7 @@
   padding-top: 8px;
   line-height: 15.7px;
 
-} 
+}
 
 
 /* Special styling for some chapters */
@@ -52,8 +52,48 @@
 }
 
 
+.chapter.figures {
+}
+
+.chapter.all-footnotes {
+  background-color: blue;
+}
+
+.chapter.all-footnotes ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.chapter.all-footnotes li {
+  margin: 0;
+  padding: 0 0 8px 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.chapter.all-footnotes p {
+  margin: 0;
+}
+
+.chapter.all-footnotes .number {
+  font-style: italic;
+  margin-right: 8px;
+}
+
+.chapter.all-footnotes .text {
+  font-weight: normal;
+  font-size: 16px;
+}
+
 .chapter.bibliography {
-  
+
+}
+
+.chapter.bibliography ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .chapter.bibliography a {
@@ -65,30 +105,16 @@
   color: rgb(142, 141, 141);
 }
 
-
 .subchapter {
   flex: 1;
   margin-left: -25%;
   padding-top: 2.96px;
   padding-bottom: 2.96px;
-} 
+}
 
 .chapter .quote {
  padding: 0 25% 0 25%;
 }
-
-.chapter.bibliography ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.chapter.figures {
-}
-
-.chapter.footnotes {
-  background-color: blue;
-} 
 
 /* Styling for elements within chapters */
 

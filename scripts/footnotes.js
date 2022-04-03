@@ -4,10 +4,6 @@ const { reactive } = window.Vue
  * Handles all things related to displaying footnotes
  */
 export const Footnotes = reactive({
-  // UI elements where footnotes are shown
-  footerElement: null,
-  footerHelper: null,
-
   // All footnotes
   footnotes: [],
 
@@ -28,26 +24,21 @@ export const Footnotes = reactive({
   // and replacing them with onclick event, which will display
   // the footnotes the way and place we want them to be
   initialize () {
-    this.footerElement = document.querySelector('footer')
-    this.footerHelper = document.querySelector('#footer-helper')
     this.footnotes = []
-
-    const footnoteElements = document.querySelectorAll('.footnotes .footnote-item')
-    for (const footnoteElement of Array.from(footnoteElements)) {
-      const id = footnoteElement.getAttribute('id')
-      const number = id.substring(2)
-      const text = footnoteElement.innerHTML
-      const footnote = { id, number, text }
-      this.footnotes.push(footnote)
-    }
 
     const footnoteLinks = document.querySelectorAll('a[id]')
     for (const link of Array.from(footnoteLinks)) {
-      const footnoteId = link.getAttribute('href').substring(1)
-      link.innerHTML = footnoteId.substring(2)
+      const id = link.getAttribute('href').substring(1)
+      const number = id.substring(2)
+      console.log('Footnote', id)
+      link.innerHTML = id.substring(2)
       link.className = 'footnote-link'
       link.setAttribute('href', '#')
-      link.addEventListener('click', () => this.show(footnoteId))
+      link.addEventListener('click', () => this.show(id))
+      const footnoteElement = document.querySelector(`.footnote-item[id="${id}"]`)
+      const text = footnoteElement ? footnoteElement.innerHTML : 'Footnote text is missing'
+      const footnote = { id, number, text }
+      this.footnotes.push(footnote)
     }
   },
 
@@ -62,7 +53,6 @@ export const Footnotes = reactive({
   // Hides the displayed footnote
   hide () {
     this.footnote.isVisible = false
-    this.footerElement.style.height = '0px'
   },
 
   // Displays the specified footnote
@@ -70,9 +60,16 @@ export const Footnotes = reactive({
     // Render footnote text
     const text = this.getFootnote(id)
     this.footnote = { id, text, isVisible: text != null }
-    // After a while, its height is known, so slide out the footnote container
-    setTimeout(() => {
-      this.footerElement.style.height = `${this.height}px`
-    }, 100);
+  },
+
+  // Returns HTML element containing a list of all footnotes
+  getFootnotesList () {
+    const footnotes = this.footnotes.map(f => `
+      <li>
+        <span class="number">${f.number}</span>
+        <span class="text">${f.text}</span>
+      </li>`
+    )
+    return `<ul>${footnotes.join('\n')}</ul>`
   }
 })
