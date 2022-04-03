@@ -21,6 +21,7 @@ export const Content = reactive({
     { title: 'The Truth,', file: '04-the-truth.md', content: '',  },
     { title: 'The Cycle,', file: '05-the-cycle.md', content: '' },
     { title: 'The Fossil', file: '06-the-fossil.md', content: '', linebreak: true },
+    { title: 'Conclusion,', file: '07-conclusion.md', content: '', chapterClass: '' },
     { title: 'Footnotes,', element: '.footnotes', chapterClass: 'footnotes'  },
     { title: 'Bibliography,', file: '07-bibliography.md', content: '', chapterClass: 'bibliography' },
     { title: 'Figures', element: '.figures', chapterClass: 'figures'  },

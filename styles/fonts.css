@@ -10,17 +10,17 @@
 
 
 h1 {
-  color: orange;  
+  color: rgb(0, 0, 0);  
   font-size: 20px;
   font-weight: normal;
 }
 
 
 h2 {
-  color: red;  
+  color: rgb(0, 0, 0);  
   font-size: 20px;
   font-weight: normal;
-  margin-bottom: 100px;
+  margin-bottom: 190px;
   text-align: center;
 }
 

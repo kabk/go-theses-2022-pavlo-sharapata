@@ -17,9 +17,10 @@
 
 
 .credits {
-  flex: 1;
-  z-index: 99;
-  padding-top: 20px;
+  flex: 0;
+  padding-top: 8px;
+  line-height: 15.7px;
+
 } 
 
 
@@ -27,14 +28,15 @@
 .chapter {
   display: flex;
   flex-direction: column;
-  padding:7.5% 16.66% 7.5% 16.66%;
+  padding:2% 16.66% 7.5% 16.66%;
   font-size: 20px;
   line-height: 21.5px;
   color:rgb(0, 0, 0);
 }
 
 .chapter.full-height {
-  min-height: 95vh;
+  min-height: 85vh;
+  margin-bottom: 170px;
 }
 
 .chapter.half-height {
@@ -51,17 +53,27 @@
 
 
 .chapter.bibliography {
+  
 }
+
+.chapter.bibliography a {
+  text-decoration: none;
+  color: rgb(193, 193, 193);
+}
+
+.chapter.bibliography a:hover {
+  color: rgb(142, 141, 141);
+}
+
 
 .subchapter {
   flex: 1;
   margin-left: -25%;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 2.96px;
+  padding-bottom: 2.96px;
 } 
 
 .chapter .quote {
- background-color: yellow;
  padding: 0 25% 0 25%;
 }
 
@@ -73,6 +85,10 @@
 
 .chapter.figures {
 }
+
+.chapter.footnotes {
+  background-color: blue;
+} 
 
 /* Styling for elements within chapters */
 

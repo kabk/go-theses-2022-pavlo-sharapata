@@ -12,6 +12,12 @@ html, body {
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+#app > main::-webkit-scrollbar {
+  width: 0 !important 
 }
 
 #app {
@@ -26,4 +32,8 @@ html, body {
   display: flex;
   flex-direction: column;
   overflow: auto;
+  -ms-overflow-style: none;
+}
+#app > main {
+  overflow: -moz-scrollbars-none; 
 }
