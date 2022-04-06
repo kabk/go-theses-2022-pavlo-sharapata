@@ -71,7 +71,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
- *Volcanoes May Have Helped Life Bounce Back after Dinosaur-Killing Asteroid Strike*. &hairsp;Science, National Geographic, (2021).
+ *Volcanoes May Have Helped Life Bounce Back after Dinosaur-Killing Asteroid Strike*. &hairsp;Science, National Geographic, (2021). <br>
  [[&hairsp;↗&hairsp;]](https://www.nationalgeographic.com/science/article/volcanoes-helped-life-bounce-back-afterdinosaur-killing-asteroid.) 
 
 <div class="subchapter">

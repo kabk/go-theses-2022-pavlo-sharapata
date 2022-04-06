@@ -15,7 +15,8 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*What Does “Deep Time” Mean to You?*. Smithsonian Magazine, 2014.<br>
+*What Does “Deep Time” Mean to You?*. <br>
+Smithsonian Magazine, 2014.<br>
 smithsonianmag.com/science-nature/what-does-deep-time-mean-to-you-180952603/
 
 <div class="subchapter">

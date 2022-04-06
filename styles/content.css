@@ -98,11 +98,11 @@
 
 .chapter.bibliography a {
   text-decoration: none;
-  color: rgb(193, 193, 193);
+  color: rgb(178, 182, 184);
 }
 
 .chapter.bibliography a:hover {
-  color: rgb(142, 141, 141);
+  color: rgb(137, 139, 142);
 }
 
 .subchapter {

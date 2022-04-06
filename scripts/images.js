@@ -8,21 +8,147 @@ export const Images = reactive({
   // Available images
   images: [
     {
-      name: 'Figure 1', file: '00-image.jpg', text: [
+      name: 'Leopold von Ranke', file: 'leopold-von-ranke.jpg', text: [
         'Text',
         '2009',
         '(c)'
       ]
     },
     {
-      name: 'Figure 2', file: '01-cat.jpg', text: [
+      name: 'James Hutton', file: 'james-hutton.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Strata Image', file: '1.jpg', text: [
+      name: 'Strata Image', file: 'strata.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Bivalves', file: 'bivalves.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Baader-Meinhof Phenomenon', file: 'baader-meinhof-phenomenon.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Ammonites', file: 'ammonites.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Belemnites', file: 'belemnites.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Trilobites', file: 'trilobites.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Gryphaeas', file: 'gryphaeas.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'George Bartholomew', file: 'george-bartholomew.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
         'Text',
         '2019',
         '(c)'

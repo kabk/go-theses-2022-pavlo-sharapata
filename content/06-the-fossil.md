@@ -5,7 +5,7 @@
 
 <div class="subchapter">
 
-### Note
+### Personal Note
 
 </div>
 
