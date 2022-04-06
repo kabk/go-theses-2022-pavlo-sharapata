@@ -9,7 +9,7 @@
 
 </div>
 
-*Truth to Materials*&hairsp; is an architectural approach based on the idea that materials should be exposed and used where they are most appropriate without their textures, colors or other aesthetically specifics being hidden in any way. This idea was first mentioned by the English architect Augustus Pugin in his book *The True Principles of Pointed or Christian Architecture* &hairsp;(1841):<br>
+*Truth to Materials*&hairsp; is an architectural approach based on the idea that materials should be exposed and used where they are most appropriate without their textures, colors or other aesthetically specifics being hidden in any way. This idea was first mentioned by the English architect [Augustus Pugin](#figure "Augustus Pugin") in his book *The True Principles of Pointed or Christian Architecture* &hairsp;(1841):<br>
 <br>
 
 <div class="quote">“&hairsp;Even the construction itself should vary with the material employed, and the designs should be adapted to the material in which they are executed... Moreover, the architects of the middle ages were the first who turned the natural properties of the various materials to their full account, and made their mechanism a vehicle for their art.&hairsp;”<br>
@@ -23,7 +23,7 @@ Maltese architect&hairsp;—&hairsp;Lino Bianco, author of the book *Limestone i
 </div>
 <br>
 
-Although the phrase first originated during the Industrial Revolution&hairsp;—&hairsp;it is most closely associated with post-war Modernist architecture, and it was officially coined 93 years after Pugin’s argument by the acclaimed English sculptor&hairsp;—&hairsp;Henry Moore:<br>
+Although the phrase first originated during the [Industrial Revolution](#figure "Industrial Revolution")&hairsp;—&hairsp;it is most closely associated with post-war Modernist architecture, and it was officially coined 93 years after Pugin’s argument by the acclaimed English sculptor&hairsp;—&hairsp;[Henry Moore](#figure "Henry Moore"):<br>
 <br>
 
 <div class="quote">
@@ -36,7 +36,7 @@ Although the phrase first originated during the Industrial Revolution&hairsp;—
 
 </div>
 
-The reason why *Truth to Materials* &hairsp;theory is so relevant in the context of a material called Limestone is because it is a sedimentary rock which consists mostly of fossils that are frequently visible to the unaided eye. It is a highly valued material by architects because of its bold texture and roughness. It started to receive an appreciation for its natural authenticity, where every block of Limestone was unique and didn't look like any other one. So just as the main principles of Moore's *Truth to Materials*&hairsp;&hairsp;—&hairsp;where concrete is left untreated and unsanded, wood's grain is left unpolished and metal left exposed&hairsp;—&hairsp;Limestone is also chosen intentionally for its authentic qualities in a form of fossil inclusions. Along Limestone, inclusions can also be found in materials like Marble, Granite, Gneiss and Quartz. Christopher Barr&hairsp;—&hairsp;a founder of Washington's Urban Museum of Paleontology, notes in the interview with National Building Museum that:<br>
+The reason why *Truth to Materials* &hairsp;theory is so relevant in the context of a material called [Limestone](#figure "Limestone") is because it is a sedimentary rock which consists mostly of fossils that are frequently visible to the unaided eye. It is a highly valued material by architects because of its bold texture and roughness. It started to receive an appreciation for its natural authenticity, where every block of Limestone was unique and didn't look like any other one. So just as the main principles of Moore's *Truth to Materials*&hairsp;&hairsp;—&hairsp;where concrete is left untreated and unsanded, wood's grain is left unpolished and metal left exposed&hairsp;—&hairsp;Limestone is also chosen intentionally for its authentic qualities in a form of fossil inclusions. Along Limestone, inclusions can also be found in materials like Marble, Granite, Gneiss and Quartz. Christopher Barr&hairsp;—&hairsp;a founder of Washington's Urban Museum of Paleontology, notes in the interview with National Building Museum that:<br>
 <br>
 
 <div class="quote">

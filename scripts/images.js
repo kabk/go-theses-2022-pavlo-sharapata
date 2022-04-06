@@ -92,49 +92,49 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Portland cement', file: 'portland-cement.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Court Avenue', file: 'court-avenue.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'little tracks', file: 'little-tracks.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Augustus Pugin', file: 'augustus-pugin.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Industrial Revolution', file: 'industrial-revolution.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Henry Moore', file: 'henry-moore.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Limestone', file: 'limestone.jpg', text: [
         'Text',
         '2019',
         '(c)'
