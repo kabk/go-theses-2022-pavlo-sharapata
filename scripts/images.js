@@ -141,20 +141,56 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Gneiss', file: 'gneiss.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Quartz', file: 'quartz.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Venus of Willendorf', file: 'venus-of-willendorf.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Venus of Hohle Fels', file: 'venus-of-hohle-fels.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Venus of Willendorf', file: 'venus-of-willendorf.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Venus of Willendorf', file: 'venus-of-willendorf.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Granite', file: 'granite.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     }
   ],
+  
 
   // Initializes the images
   initialize () {
