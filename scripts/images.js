@@ -9,28 +9,27 @@ export const Images = reactive({
   images: [
     {
       name: 'Leopold von Ranke', file: 'leopold-von-ranke.jpg', text: [
-        '21 December 1795&hairsp;–&hairsp;23 May 1886',
-        'After Julius Schrader (1868). Oil on canvas. 110 × 96 cm. © Märkisches Museum',
+        'Julius Schrader (1868). Oil on canvas. 110 × 96 cm.',
+        '© Märkisches Museum',
       ]
     },
     {
       name: 'James Hutton', file: 'james-hutton.jpg', text: [
-        '3 June 1726&hairsp;–&hairsp;26 March 1797',
-        'Henry Raeburn (1776). Oil on canvas. 125 × 104 cm. © Scottish National Gallery',
+        'Henry Raeburn (1776). Oil on canvas. 125 × 104 cm.',
+        '© Scottish National Gallery',
 
       ]
     },
     {
       name: 'Strata', file: 'strata.jpg', text: [
         'Strata (plural from stratum) are layers of different colored sedimentary rocks and soil that are exposed in cliffs, road cuts, quarries, and river banks.',
-        '© Angel Jimenez (Flickr)',
+        '© Angel Jimenez',
       ]
     },
     {
       name: 'Bivalves', file: 'bivalves.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2017',
+        '© André Cardoso',
       ]
     },
     {
@@ -42,37 +41,32 @@ export const Images = reactive({
     },
     {
       name: 'Ammonites', file: 'ammonites.jpg', text: [
-        'Text',
         '2019',
-        '(c)'
+        '© National Geographic',
       ]
     },
     {
       name: 'Belemnites', file: 'belemnites.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2020',
+        '© Stan Celestian',
       ]
     },
     {
       name: 'Trilobites', file: 'trilobites.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2015',
+        '© Sean McWhite',
       ]
     },
     {
       name: 'Gryphaeas', file: 'gryphaeas.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2016',
+        '© Chris Andrew',
       ]
     },
     {
       name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        'Unknown author, year, technique, size.',
+        '© Science History Institute',
       ]
     },
     {
@@ -84,72 +78,62 @@ export const Images = reactive({
     },
     {
       name: 'George Bartholomew', file: 'george-bartholomew.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        'John Walton (1910). Oil on panel. 62.5 × 49 cm.',
+        '© The Royal Society of Edinburgh',
       ]
     },
     {
       name: 'Portland cement', file: 'portland-cement.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        'Patent No. BP 5022, "An Improvement in the Modes of Producing an Artificial Stone". Page 1/2, (21.10.1824).',
+        '© Joseph Aspdin',
       ]
     },
     {
       name: 'Court Avenue', file: 'court-avenue.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        'Oldest Concrete Street in America. Bellefontaine, Ohio.',
+        '© Ohio History Central',
       ]
     },
     {
-      name: 'little tracks', file: 'little-tracks.jpg', text: [
-        'Text',
+      name: 'Little tracks', file: 'little-tracks.jpg', text: [
         '2019',
-        '(c)'
+        '© Carl Mehling',
       ]
     },
     {
       name: 'Augustus Pugin', file: 'augustus-pugin.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        'Unknown author (1840). Oil on canvas. 61.2 × 50.8 cm.',
+        '© National Portraig Gallery',
       ]
     },
     {
       name: 'Industrial Revolution', file: 'industrial-revolution.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '1893',
+        '© Getty Images',
       ]
     },
     {
       name: 'Henry Moore', file: 'henry-moore.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '1940',
+        '© Werner Bischof',
       ]
     },
     {
       name: 'Limestone', file: 'limestone.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2005',
+        '© Flavio Serafini',
       ]
     },
     {
       name: 'Gneiss', file: 'gneiss.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2018',
+        '© Petr Hykš',
       ]
     },
     {
       name: 'Quartz', file: 'quartz.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2017',
+        '© Az Nature',
       ]
     },
     {
@@ -265,14 +249,14 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+      name: 'Marble', file: 'marble.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+      name: 'Granite', file: 'granite.jpg', text: [
         'Text',
         '2019',
         '(c)'
