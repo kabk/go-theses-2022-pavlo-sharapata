@@ -22,7 +22,7 @@ export const Images = reactive({
     },
     {
       name: 'Strata', file: 'strata.jpg', text: [
-        'Strata (plural from stratum) are layers of different colored sedimentary rocks and soil that are exposed in cliffs, road cuts, quarries, and river banks.',
+        '2020',
         '© Angel Jimenez',
       ]
     },
@@ -65,7 +65,7 @@ export const Images = reactive({
     },
     {
       name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
-        'Unknown author, year, technique, size.',
+        'Unidentified painter',
         '© Science History Institute',
       ]
     },
@@ -102,7 +102,7 @@ export const Images = reactive({
     },
     {
       name: 'Augustus Pugin', file: 'augustus-pugin.jpg', text: [
-        'Unknown author (1840). Oil on canvas. 61.2 × 50.8 cm.',
+        'Unidentified painter (1840). Oil on canvas. 61.2 × 50.8 cm.',
         '© National Portraig Gallery',
       ]
     },
@@ -125,7 +125,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Gneiss', file: 'gneiss.jpg', text: [
+      name: 'Gneiss Mount Lytton Complex', file: 'gneiss.jpg', text: [
         '2018',
         '© Petr Hykš',
       ]
@@ -138,128 +138,116 @@ export const Images = reactive({
     },
     {
       name: 'Venus of Willendorf', file: 'venus-of-willendorf.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '25000 B.C.E. (2019)',
+        '© Naturhistorisches Museum in Vienna',
       ]
     },
     {
       name: 'Venus of Hohle Fels', file: 'venus-of-hohle-fels.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '40000 B.C.E. (2015)',
+        '© Prehistoric Museum of Blaubeuren',
       ]
     },
     {
       name: 'Naqsh-e Rostam', file: 'naqsh-e-rostam.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '550 – 330 B.C. (2013)',
+        '© Michael Chow',
       ]
     },
     {
       name: 'Tomb of Darius II', file: 'tomb-of-darius2.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '550 – 330 B.C. (2021)',
+        '© Carole Raddato',
       ]
     },
     {
-      name: 'Darius the Great', file: 'tomb-of-darius.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+      name: 'Tomb of Darius the Great', file: 'tomb-of-darius.jpg', text: [
+        '550 – 330 B.C. (2021)',
+        '© Carole Raddato',
       ]
     },
     {
-      name: 'Artaxerxes I', file: 'tomb-of-artaxerxes.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+      name: 'Tomb of Artaxerxes I', file: 'tomb-of-artaxerxes.jpg', text: [
+        '550 – 330 B.C. (2021)',
+        '© Carole Raddato',
       ]
     },
     {
-      name: 'Xerxes I', file: 'tomb-of-xerxes.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+      name: 'Tomb of Xerxes I', file: 'tomb-of-xerxes.jpg', text: [
+        '550 – 330 B.C. (2021)',
+        '© Carole Raddato',
       ]
     },
     {
       name: 'Remarks on Secular & Domestic Architecture, Present & Future', file: 'remarks-book.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '1857',
+        '© John Murray',
       ]
     },
     {
       name: 'The Great Mosque of Djenné', file: 'djenne.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '1200 – 1300 (2015)',
+        '© Baron Reznik',
       ]
     },
     {
       name: 'The Djinguereber Mosque', file: 'the-djinguereber-mosque.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '1327 (2009)',
+        '© Julie Summersquash',
       ]
     },
     {
       name: 'Architecture without Architects', file: 'architecture-without-architects.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '1987',
+        '© UNM Press',
       ]
     },
     {
       name: 'Bernard Rudofsky', file: 'bernard-rudofsky.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '1963',
+        '© LIFE',
       ]
     },
     {
-      name: 'Monuments', file: 'yugoslavia.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+      name: 'Kosmaj Memorial Complex', file: 'yugoslavia.jpg', text: [
+        'Vojin Stojić, Gradimir Medaković (1971). Concrete, rebar. 40 × 30 × 30 m.',
+        '© Milena Mijatovic',
       ]
     },
     {
-      name: 'War', file: 'war.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+      name: 'Ukrainian troops outside of Kyiv', file: 'war.jpg', text: [
+        '2022',
+        '© Reuters',
       ]
     },
     {
       name: 'The True Principles of Pointed or Christian Architecture', file: 'true-principles.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '1841',
+        '© John Weale',
       ]
     },
     {
       name: 'Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin?', file: 'limestone-book.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '1998',
+        '© University of Malta',
       ]
     },
     {
       name: 'Marble', file: 'marble.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2006',
+        '© Astrid Westvang',
       ]
     },
     {
       name: 'Granite', file: 'granite.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2017',
+        '© Jan Yarnot',
+      ]
+    },
+    {
+      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+        'George Richmond (1878). Oil on canvas. 71 × 63 cm',
+        '© Royal Institute of British Architects',
       ]
     },
     {
@@ -285,16 +273,8 @@ export const Images = reactive({
     },
     {
       name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
-      ]
-    },
-    {
-      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        'George Richmond (1878). Oil on canvas. 71 × 63 cm',
+        '© Royal Institute of British Architects',
       ]
     } 
   ],
