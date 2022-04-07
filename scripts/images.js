@@ -251,10 +251,9 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+      name: 'Nesher Cement Factory (Nesher, Israel)', file: 'unimaginably-gigantic-scale.jpg', text: [
+        '2010',
+        '© Alessondra Springmann',
       ]
     },
     {
