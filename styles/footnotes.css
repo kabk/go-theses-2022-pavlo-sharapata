@@ -54,7 +54,6 @@
     top: 0;
     bottom: 0;
     background-color: white;
-    opacity: 0.95;
 }
 
 .footnote-popup {
@@ -75,6 +74,7 @@
   width: 50vw;
   height: 50vh;
   background-color: white;
-  border: solid black 1px;
   padding: 32px;
+  font-size: 20px;
+  text-align: center
 }
