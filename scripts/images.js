@@ -257,7 +257,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+      name: 'Christopher Barr', file: 'christopher-barr.jpg', text: [
         'Text',
         '2019',
         '(c)'
