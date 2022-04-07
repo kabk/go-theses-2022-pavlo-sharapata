@@ -42,14 +42,20 @@ a[href="#figure"] {
     margin: 0;
     padding: 8px;
     list-style: none;
+    padding-top: 4px;
+    padding-bottom: 50px;
+    padding-left: 6px;
+    color: #0a0a0a;
+    font-size: 13px;
+    line-height: 13.4px;
 }
 
 .image-data .title {
-    font-weight: bold;
+    color: rgb(178, 182, 184);
 }
 
 .image-data .details {
-    font-style: italic;
+    color: rgb(0, 0, 0);
 }
 
 /* Figures list at the bottom of the text*/

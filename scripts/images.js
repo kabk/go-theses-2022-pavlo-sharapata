@@ -9,23 +9,21 @@ export const Images = reactive({
   images: [
     {
       name: 'Leopold von Ranke', file: 'leopold-von-ranke.jpg', text: [
-        'Text',
-        '2009',
-        '(c)'
+        '21 December 1795&hairsp;–&hairsp;23 May 1886',
+        'After Julius Schrader (1868). Oil on canvas. 110 × 96 cm. © Märkisches Museum',
       ]
     },
     {
       name: 'James Hutton', file: 'james-hutton.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '3 June 1726&hairsp;–&hairsp;26 March 1797',
+        'Henry Raeburn (1776). Oil on canvas. 125 × 104 cm. © Scottish National Gallery',
+
       ]
     },
     {
-      name: 'Strata Image', file: 'strata.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+      name: 'Strata', file: 'strata.jpg', text: [
+        'Strata (plural from stratum) are layers of different colored sedimentary rocks and soil that are exposed in cliffs, road cuts, quarries, and river banks.',
+        '© Angel Jimenez (Flickr)',
       ]
     },
     {
@@ -169,26 +167,152 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Venus of Willendorf', file: 'venus-of-willendorf.jpg', text: [
+      name: 'Naqsh-e Rostam', file: 'naqsh-e-rostam.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Venus of Willendorf', file: 'venus-of-willendorf.jpg', text: [
+      name: 'Tomb of Darius II', file: 'tomb-of-darius2.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
     },
     {
-      name: 'Granite', file: 'granite.jpg', text: [
+      name: 'Darius the Great', file: 'tomb-of-darius.jpg', text: [
         'Text',
         '2019',
         '(c)'
       ]
-    }
+    },
+    {
+      name: 'Artaxerxes I', file: 'tomb-of-artaxerxes.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Xerxes I', file: 'tomb-of-xerxes.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Remarks on Secular & Domestic Architecture, Present & Future', file: 'remarks-book.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'The Great Mosque of Djenné', file: 'djenne.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'The Djinguereber Mosque', file: 'the-djinguereber-mosque.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Architecture without Architects', file: 'architecture-without-architects.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Bernard Rudofsky', file: 'bernard-rudofsky.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Monuments', file: 'yugoslavia.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'War', file: 'war.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'The True Principles of Pointed or Christian Architecture', file: 'true-principles.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin?', file: 'limestone-book.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    },
+    {
+      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+        'Text',
+        '2019',
+        '(c)'
+      ]
+    } 
   ],
   
 
