@@ -108,7 +108,7 @@ export const Images = reactive({
     },
     {
       name: 'Industrial Revolution', file: 'industrial-revolution.jpg', text: [
-        '1893',
+        '1760 – 1840 (1893)',
         '© Getty Images',
       ]
     },
@@ -119,19 +119,19 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Limestone', file: 'limestone.jpg', text: [
+      name: 'Limestone Formation', file: 'limestone.jpg', text: [
         '2005',
         '© Flavio Serafini',
       ]
     },
     {
-      name: 'Gneiss Mount Lytton Complex', file: 'gneiss.jpg', text: [
+      name: 'Gneiss Formation', file: 'gneiss.jpg', text: [
         '2018',
         '© Petr Hykš',
       ]
     },
     {
-      name: 'Quartz', file: 'quartz.jpg', text: [
+      name: 'Quartz Formation', file: 'quartz.jpg', text: [
         '2017',
         '© Az Nature',
       ]
@@ -233,13 +233,13 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Marble', file: 'marble.jpg', text: [
+      name: 'Marble Formation', file: 'marble.jpg', text: [
         '2006',
         '© Astrid Westvang',
       ]
     },
     {
-      name: 'Granite', file: 'granite.jpg', text: [
+      name: 'Granite Formations', file: 'granite.jpg', text: [
         '2017',
         '© Jan Yarnot',
       ]
@@ -269,9 +269,9 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
-        'George Richmond (1878). Oil on canvas. 71 × 63 cm',
-        '© Royal Institute of British Architects',
+      name: 'Ferey Mudbricks (Jordan Valley, Palestine)', file: 'ferey.jpg', text: [
+        '2011',
+        '© George Plakides',
       ]
     } 
   ],
