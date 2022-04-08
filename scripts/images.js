@@ -125,13 +125,13 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Gneiss Formation', file: 'gneiss.jpg', text: [
+      name: 'Gneiss Formation (Nunavut, Nunavut, Canada)', file: 'gneiss.jpg', text: [
         '2018',
         '© Petr Hykš',
       ]
     },
     {
-      name: 'Quartz Formation', file: 'quartz.jpg', text: [
+      name: 'Quartz Formation (Bryce Canyon, Utah, United States)', file: 'quartz.jpg', text: [
         '2017',
         '© Az Nature',
       ]
@@ -209,7 +209,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Kosmaj Memorial Complex', file: 'yugoslavia.jpg', text: [
+      name: 'Kosmaj Memorial Complex (Koraćica, Serbia)', file: 'yugoslavia.jpg', text: [
         'Vojin Stojić, Gradimir Medaković (1971). Concrete, rebar. 40 × 30 × 30 m.',
         '© Milena Mijatovic',
       ]
@@ -233,13 +233,13 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Marble Formation', file: 'marble.jpg', text: [
+      name: 'Marble Formation (Coconino, Arizona, United States)', file: 'marble.jpg', text: [
         '2006',
         '© Astrid Westvang',
       ]
     },
     {
-      name: 'Granite Formations', file: 'granite.jpg', text: [
+      name: 'Granite Formations (Calangianus, Sardegna, Italy)', file: 'granite.jpg', text: [
         '2017',
         '© Jan Yarnot',
       ]
