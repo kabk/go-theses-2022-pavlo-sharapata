@@ -8,13 +8,13 @@ export const Images = reactive({
   // Available images
   images: [
     {
-      name: 'Leopold von Ranke', file: 'leopold-von-ranke.jpg', text: [
+      name: 'Leopold von Ranke (1795 – 1886)', file: 'leopold-von-ranke.jpg', text: [
         'Julius Schrader (1868). Oil on canvas. 110 × 96 cm.',
         '© Märkisches Museum',
       ]
     },
     {
-      name: 'James Hutton', file: 'james-hutton.jpg', text: [
+      name: 'James Hutton (1726 – 1797)', file: 'james-hutton.jpg', text: [
         'Henry Raeburn (1776). Oil on canvas. 125 × 104 cm.',
         '© Scottish National Gallery',
 
@@ -64,7 +64,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Joseph Aspdin (1778 – 1855)', file: 'joseph-aspdin.jpg', text: [
         'Unidentified painter',
         '© Science History Institute',
       ]
@@ -77,7 +77,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'George Bartholomew', file: 'george-bartholomew.jpg', text: [
+      name: 'George Bartholomew (1919 – 2006)', file: 'george-bartholomew.jpg', text: [
         'John Walton (1910). Oil on panel. 62.5 × 49 cm.',
         '© The Royal Society of Edinburgh',
       ]
@@ -89,31 +89,31 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Court Avenue', file: 'court-avenue.jpg', text: [
-        'Oldest Concrete Street in America. Bellefontaine, Ohio.',
+      name: 'Court Avenue (Bellefontaine, Ohio, United States)', file: 'court-avenue.jpg', text: [
+        '1893',
         '© Ohio History Central',
       ]
     },
     {
-      name: 'Little tracks', file: 'little-tracks.jpg', text: [
+      name: 'Bird Track Fossil (New York, New York, United States)', file: 'little-tracks.jpg', text: [
         '2019',
         '© Carl Mehling',
       ]
     },
     {
-      name: 'Augustus Pugin', file: 'augustus-pugin.jpg', text: [
+      name: 'Augustus Pugin (1812 – 1852)', file: 'augustus-pugin.jpg', text: [
         'Unidentified painter (1840). Oil on canvas. 61.2 × 50.8 cm.',
         '© National Portraig Gallery',
       ]
     },
     {
-      name: 'Industrial Revolution', file: 'industrial-revolution.jpg', text: [
-        '1760 – 1840 (1893)',
+      name: 'Industrial Revolution (1760 – 1840)', file: 'industrial-revolution.jpg', text: [
+        '1893',
         '© Getty Images',
       ]
     },
     {
-      name: 'Henry Moore', file: 'henry-moore.jpg', text: [
+      name: 'Henry Moore (1898 – 1986)', file: 'henry-moore.jpg', text: [
         '1940',
         '© Werner Bischof',
       ]
@@ -137,44 +137,44 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Venus of Willendorf', file: 'venus-of-willendorf.jpg', text: [
-        '25000 B.C.E. (2019)',
+      name: 'Venus of Willendorf (25000 B.C.E.)', file: 'venus-of-willendorf.jpg', text: [
+        '2019',
         '© Naturhistorisches Museum in Vienna',
       ]
     },
     {
-      name: 'Venus of Hohle Fels', file: 'venus-of-hohle-fels.jpg', text: [
-        '40000 B.C.E. (2015)',
+      name: 'Venus of Hohle Fels (40000 B.C.E.)', file: 'venus-of-hohle-fels.jpg', text: [
+        '2015',
         '© Prehistoric Museum of Blaubeuren',
       ]
     },
     {
-      name: 'Naqsh-e Rostam', file: 'naqsh-e-rostam.jpg', text: [
-        '550 – 330 B.C. (2013)',
+      name: 'Naqsh-e Rostam (Marvdasht, Fars Province Region, Iran), (550 – 330 B.C.)', file: 'naqsh-e-rostam.jpg', text: [
+        '2013',
         '© Michael Chow',
       ]
     },
     {
-      name: 'Tomb of Darius II', file: 'tomb-of-darius2.jpg', text: [
-        '550 – 330 B.C. (2021)',
+      name: 'Tomb of Darius II (550 – 330 B.C.)', file: 'tomb-of-darius2.jpg', text: [
+        '2021',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Tomb of Darius the Great', file: 'tomb-of-darius.jpg', text: [
-        '550 – 330 B.C. (2021)',
+      name: 'Tomb of Darius the Great (550 – 330 B.C.)', file: 'tomb-of-darius.jpg', text: [
+        '2021',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Tomb of Artaxerxes I', file: 'tomb-of-artaxerxes.jpg', text: [
-        '550 – 330 B.C. (2021)',
+      name: 'Tomb of Artaxerxes I (550 – 330 B.C.)', file: 'tomb-of-artaxerxes.jpg', text: [
+        '2021',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Tomb of Xerxes I', file: 'tomb-of-xerxes.jpg', text: [
-        '550 – 330 B.C. (2021)',
+      name: 'Tomb of Xerxes I (550 – 330 B.C.)', file: 'tomb-of-xerxes.jpg', text: [
+        '2021',
         '© Carole Raddato',
       ]
     },
@@ -185,14 +185,14 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'The Great Mosque of Djenné', file: 'djenne.jpg', text: [
-        '1200 – 1300 (2015)',
+      name: 'The Great Mosque of Djenné (Djenné, Mali), (1200 – 1300)', file: 'djenne.jpg', text: [
+        '2015',
         '© Baron Reznik',
       ]
     },
     {
-      name: 'The Djinguereber Mosque', file: 'the-djinguereber-mosque.jpg', text: [
-        '1327 (2009)',
+      name: 'The Djinguereber Mosque (Timbuktu, Mali), (1327)', file: 'the-djinguereber-mosque.jpg', text: [
+        '2009',
         '© Julie Summersquash',
       ]
     },
@@ -210,12 +210,12 @@ export const Images = reactive({
     },
     {
       name: 'Kosmaj Memorial Complex (Koraćica, Serbia)', file: 'yugoslavia.jpg', text: [
-        'Vojin Stojić, Gradimir Medaković (1971). Concrete, rebar. 40 × 30 × 30 m.',
+        'Vojin Stojić, Gradimir Medaković (1971). Concrete, rebar. 40 × 30 × 28 m.',
         '© Milena Mijatovic',
       ]
     },
     {
-      name: 'Ukrainian troops outside of Kyiv', file: 'war.jpg', text: [
+      name: 'Ukrainian troops (Kyiv, Ukraine)', file: 'war.jpg', text: [
         '2022',
         '© Reuters',
       ]
@@ -263,7 +263,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Arsenalna Station (Kyiv, Ukraine)', file: 'arsenalna.jpg', text: [
+      name: 'Arsenalna Metro Station (Kyiv, Ukraine)', file: 'arsenalna.jpg', text: [
         '2017',
         '© Jorge Láscar',
       ]

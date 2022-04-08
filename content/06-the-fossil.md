@@ -19,7 +19,7 @@ In my last chapter I planned to write about another type of fossils. [Monuments]
 
 <div class="quote">
 
-Unfortunately, due to [War](#figure "Ukrainian troops outside of Kyiv") that erupted in my home country and relocation of my family&hairsp;&hairsp;—&hairsp;I did not manage to properly finish this chapter and conclusion. I am sorry, and I thank you kindly for your understanding.
+Unfortunately, due to [War](#figure "Ukrainian troops (Kyiv, Ukraine)") that erupted in my home country and relocation of my family&hairsp;&hairsp;—&hairsp;I did not manage to properly finish this chapter and conclusion. I am sorry, and I thank you kindly for your understanding.
 
 </div>
 

@@ -9,7 +9,7 @@
 
 </div>
 
-*Truth to Materials*&hairsp; is an architectural approach based on the idea that materials should be exposed and used where they are most appropriate without their textures, colors or other aesthetically specifics being hidden in any way. This idea was first mentioned by the English architect [Augustus Pugin](#figure "Augustus Pugin") in his book [*The True Principles of Pointed or Christian Architecture*](#figure "The True Principles of Pointed or Christian Architecture") &hairsp;(1841):<br>
+*Truth to Materials*&hairsp; is an architectural approach based on the idea that materials should be exposed and used where they are most appropriate without their textures, colors or other aesthetically specifics being hidden in any way. This idea was first mentioned by the English architect [Augustus Pugin](#figure "Augustus Pugin (1812 – 1852)") in his book [*The True Principles of Pointed or Christian Architecture*](#figure "The True Principles of Pointed or Christian Architecture") &hairsp;(1841):<br>
 <br>
 
 <div class="quote">“&hairsp;Even the construction itself should vary with the material employed, and the designs should be adapted to the material in which they are executed... Moreover, the architects of the middle ages were the first who turned the natural properties of the various materials to their full account, and made their mechanism a vehicle for their art.&hairsp;”<br>
@@ -23,7 +23,7 @@ Maltese architect&hairsp;—&hairsp;Lino Bianco, author of the book [*Limestone 
 </div>
 <br>
 
-Although the phrase first originated during the [Industrial Revolution](#figure "Industrial Revolution")&hairsp;—&hairsp;it is most closely associated with post-war Modernist architecture, and it was officially coined 93 years after Pugin’s argument by the acclaimed English sculptor&hairsp;—&hairsp;[Henry Moore](#figure "Henry Moore"):<br>
+Although the phrase first originated during the [Industrial Revolution](#figure "Industrial Revolution (1760 – 1840)")&hairsp;—&hairsp;it is most closely associated with post-war Modernist architecture, and it was officially coined 93 years after Pugin’s argument by the acclaimed English sculptor&hairsp;—&hairsp;[Henry Moore](#figure "Henry Moore (1898 – 1986)"):<br>
 <br>
 
 <div class="quote">
