@@ -21,13 +21,13 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Strata', file: 'strata.jpg', text: [
+      name: 'Strata Formation (Jujuy Province, Argentina)', file: 'strata.jpg', text: [
         '2020',
         '© Angel Jimenez',
       ]
     },
     {
-      name: 'Bivalves', file: 'bivalves.jpg', text: [
+      name: 'Bivalve Fossils (Sion Hill, Leinster, Ireland)', file: 'bivalves.jpg', text: [
         '2017',
         '© André Cardoso',
       ]
@@ -40,27 +40,27 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Ammonites', file: 'ammonites.jpg', text: [
+      name: 'Ammonite Fossil (Villanueva de la Concepción, Andalusia, Spain)', file: 'ammonites.jpg', text: [
         '2019',
         '© National Geographic',
       ]
     },
     {
-      name: 'Belemnites', file: 'belemnites.jpg', text: [
-        '2020',
+      name: 'Belemnite Fossils (Hunstanton Cliffs, Norfolk, England)', file: 'belemnites.jpg', text: [
+        '2016',
+        '© Natural History Museum of Los Angeles County',
+      ]
+    },
+    {
+      name: 'Trilobite Fossils (Hornsudden, Öland, Sweden)', file: 'trilobites.jpg', text: [
+        '2015',
         '© Stan Celestian',
       ]
     },
     {
-      name: 'Trilobites', file: 'trilobites.jpg', text: [
-        '2015',
-        '© Sean McWhite',
-      ]
-    },
-    {
-      name: 'Gryphaeas', file: 'gryphaeas.jpg', text: [
+      name: 'Gryphaea Fossils (Roosevelt National Park, North Dakota, United States)', file: 'gryphaeas.jpg', text: [
         '2016',
-        '© Chris Andrew',
+        '© Chris Andrews',
       ]
     },
     {
@@ -119,9 +119,9 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Limestone Formation', file: 'limestone.jpg', text: [
+      name: 'Limestone Formation (Berlin, Germany)', file: 'limestone.jpg', text: [
         '2005',
-        '© Flavio Serafini',
+        '© Museum für Naturkunde',
       ]
     },
     {
@@ -179,7 +179,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Remarks on Secular & Domestic Architecture, Present & Future', file: 'remarks-book.jpg', text: [
+      name: 'Remarks on Secular & Domestic Architecture, Present & Future (Sir George Gilbert Scott)', file: 'remarks-book.jpg', text: [
         '1857',
         '© John Murray',
       ]
@@ -197,13 +197,13 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Architecture without Architects', file: 'architecture-without-architects.jpg', text: [
+      name: 'Architecture without Architects (Bernard Rudofsky)', file: 'architecture-without-architects.jpg', text: [
         '1987',
         '© UNM Press',
       ]
     },
     {
-      name: 'Bernard Rudofsky', file: 'bernard-rudofsky.jpg', text: [
+      name: 'Bernard Rudofsky (1905 – 1988)', file: 'bernard-rudofsky.jpg', text: [
         '1963',
         '© LIFE',
       ]
@@ -221,13 +221,13 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'The True Principles of Pointed or Christian Architecture', file: 'true-principles.jpg', text: [
+      name: 'The True Principles of Pointed or Christian Architecture (Augustus Pugin)', file: 'true-principles.jpg', text: [
         '1841',
         '© John Weale',
       ]
     },
     {
-      name: 'Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin?', file: 'limestone-book.jpg', text: [
+      name: 'Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin? (Lino Bianco)', file: 'limestone-book.jpg', text: [
         '1998',
         '© University of Malta',
       ]
@@ -245,7 +245,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
+      name: 'Sir George Gilbert Scott (1811 – 1878)', file: 'gilbert-scott.jpg', text: [
         'George Richmond (1878). Oil on canvas. 71 × 63 cm',
         '© Royal Institute of British Architects',
       ]
@@ -257,7 +257,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Christopher Barr', file: 'christopher-barr.jpg', text: [
+      name: 'Christopher Barr (1958 – )', file: 'christopher-barr.jpg', text: [
         '2017',
         '© CTV News',
       ]
