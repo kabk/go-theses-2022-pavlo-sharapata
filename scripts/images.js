@@ -258,16 +258,14 @@ export const Images = reactive({
     },
     {
       name: 'Christopher Barr', file: 'christopher-barr.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2017',
+        '© CTV News',
       ]
     },
     {
-      name: 'Sir George Gilbert Scott', file: 'gilbert-scott.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+      name: 'Arsenalna Station (Kyiv, Ukraine)', file: 'arsenalna.jpg', text: [
+        '2017',
+        '© Jorge Láscar',
       ]
     },
     {
