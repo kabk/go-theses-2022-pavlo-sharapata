@@ -9,14 +9,14 @@
 
 </div>
 
-*Truth to Materials*&hairsp; is an architectural approach based on the idea that materials should be exposed and used where they are most appropriate without their textures, colors or other aesthetically specifics being hidden in any way. This idea was first mentioned by the English architect [Augustus Pugin](#figure "Augustus Pugin (1812 – 1852)") in his book [*The True Principles of Pointed or Christian Architecture*](#figure "The True Principles of Pointed or Christian Architecture (Augustus Pugin)") &hairsp;(1841):<br>
+*Truth to Materials*&hairsp; is an architectural approach based on the idea that materials should be exposed and used where they are most appropriate without their textures, colors or other aesthetically specifics being hidden in any way. This idea was first mentioned by the English architect [Augustus Pugin](#figure "Augustus Pugin (1812 – 1852)") in his book [*The True Principles of Pointed or Christian Architecture*](#figure "The True Principles of Pointed or Christian Architecture") &hairsp;(1841):<br>
 <br>
 
 <div class="quote">“&hairsp;Even the construction itself should vary with the material employed, and the designs should be adapted to the material in which they are executed... Moreover, the architects of the middle ages were the first who turned the natural properties of the various materials to their full account, and made their mechanism a vehicle for their art.&hairsp;”<br>
 </div>
 <br>
 
-Maltese architect&hairsp;—&hairsp;Lino Bianco, author of the book [*Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin?*](#figure "Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin? (Lino Bianco)") &hairsp;(1998) describes the architectural tendencies inspired by Pugin as:<br>
+Maltese architect&hairsp;—&hairsp;Lino Bianco, author of the book [*Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin?*](#figure "Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin?") &hairsp;(1998) describes the architectural tendencies inspired by Pugin as:<br>
 <br>
 
 <div class="quote">“&hairsp;In Pugin's time it was fashionable to render brick neoclassical buildings into smooth ashlar stonework. Inspired by Pugin's teachings on truth to construction and building materials, architects started to leave brick un-rendered, an inspiration which subsequently lead to the Arts and Crafts Movement and later to Modernism.&hairsp;”<br>

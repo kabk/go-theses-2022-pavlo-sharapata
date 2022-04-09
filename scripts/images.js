@@ -65,15 +65,14 @@ export const Images = reactive({
     },
     {
       name: 'Joseph Aspdin (1778 – 1855)', file: 'joseph-aspdin.jpg', text: [
-        'Unidentified painter',
+        'Unidentified painting.',
         '© Science History Institute',
       ]
     },
     {
       name: 'Banded Ironstone Formation (Ricardo, California, United States)', file: 'banded-ironstone.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+        '2018',
+        '© Jordan Vos',
       ]
     },
     {
@@ -83,8 +82,8 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Portland cement', file: 'portland-cement.jpg', text: [
-        'Patent No. BP 5022, "An Improvement in the Modes of Producing an Artificial Stone". Page 1/2, (21.10.1824).',
+      name: 'Portland Cement (21.10.1824)', file: 'portland-cement.jpg', text: [
+        'Patent No. 5022: An Improvement in the Modes of Producing an Artificial Stone. Page 1/2.',
         '© Joseph Aspdin',
       ]
     },
@@ -108,7 +107,7 @@ export const Images = reactive({
     },
     {
       name: 'Industrial Revolution (1760 – 1840)', file: 'industrial-revolution.jpg', text: [
-        '1893',
+        '1836',
         '© Getty Images',
       ]
     },
@@ -137,68 +136,68 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Venus of Willendorf (25000 B.C.E.)', file: 'venus-of-willendorf.jpg', text: [
-        '2019',
+      name: 'Venus of Willendorf', file: 'venus-of-willendorf.jpg', text: [
+        '(25000 B.C.E.)  Oolitic limestone. 11.1 × 4.2 cm.',
         '© Naturhistorisches Museum in Vienna',
       ]
     },
     {
-      name: 'Venus of Hohle Fels (40000 B.C.E.)', file: 'venus-of-hohle-fels.jpg', text: [
-        '2015',
+      name: 'Venus of Hohle Fels', file: 'venus-of-hohle-fels.jpg', text: [
+        '(40000 B.C.E.) Mammoth ivory. 6 × 2.8 cm.',
         '© Prehistoric Museum of Blaubeuren',
       ]
     },
     {
-      name: 'Naqsh-e Rostam (Marvdasht, Fars Province Region, Iran), (550 – 330 B.C.)', file: 'naqsh-e-rostam.jpg', text: [
-        '2013',
+      name: 'Naqsh-e Rostam (Marvdasht, Fars, Iran)', file: 'naqsh-e-rostam.jpg', text: [
+        '(550 – 330 B.C.) Sandstone rock. 29 m. ',
         '© Michael Chow',
       ]
     },
     {
-      name: 'Tomb of Darius II (550 – 330 B.C.)', file: 'tomb-of-darius2.jpg', text: [
-        '2021',
+      name: 'Tomb of Darius II', file: 'tomb-of-darius2.jpg', text: [
+        '(550 – 330 B.C.) Sandstone rock. 23 × 18 m.',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Tomb of Darius the Great (550 – 330 B.C.)', file: 'tomb-of-darius.jpg', text: [
-        '2021',
+      name: 'Tomb of Darius the Great', file: 'tomb-of-darius.jpg', text: [
+        '(550 – 330 B.C.) Sandstone rock. 23 × 18 m.',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Tomb of Artaxerxes I (550 – 330 B.C.)', file: 'tomb-of-artaxerxes.jpg', text: [
-        '2021',
+      name: 'Tomb of Xerxes I', file: 'tomb-of-artaxerxes.jpg', text: [
+        '(550 – 330 B.C.) Sandstone rock. 18 × 14 m.',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Tomb of Xerxes I (550 – 330 B.C.)', file: 'tomb-of-xerxes.jpg', text: [
-        '2021',
+      name: 'Tomb of Artaxerxes I', file: 'tomb-of-xerxes.jpg', text: [
+        '(550 – 330 B.C.) Sandstone rock. 23 × 18 m.',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Remarks on Secular & Domestic Architecture, Present & Future (Sir George Gilbert Scott)', file: 'remarks-book.jpg', text: [
-        '1857',
+      name: 'Remarks on Secular & Domestic Architecture, Present & Future', file: 'remarks-book.jpg', text: [
+        'Sir George Gilbert Scott (1857). 316 pages. 15.2 × 22.8 × 1.6 cm.',
         '© John Murray',
       ]
     },
     {
-      name: 'The Great Mosque of Djenné (Djenné, Mali), (1200 – 1300)', file: 'djenne.jpg', text: [
-        '2015',
+      name: 'The Great Mosque of Djenné (Djenné, Mali)', file: 'djenne.jpg', text: [
+        '(1200 – 1300). Earth, organic fibre, wood, mud. 34 × 40 × 6 m.',
         '© Baron Reznik',
       ]
     },
     {
-      name: 'The Djinguereber Mosque (Timbuktu, Mali), (1327)', file: 'the-djinguereber-mosque.jpg', text: [
-        '2009',
+      name: 'The Djinguereber Mosque (Timbuktu, Mali)', file: 'the-djinguereber-mosque.jpg', text: [
+        '(1327) Sun-baked earth bricks, wood, mud. 75 × 75 × 16 m. ',
         '© Julie Summersquash',
       ]
     },
     {
-      name: 'Architecture without Architects (Bernard Rudofsky)', file: 'architecture-without-architects.jpg', text: [
-        '1987',
+      name: 'Architecture without Architects', file: 'architecture-without-architects.jpg', text: [
+        'Bernard Rudofsky (1987). 157 pages. 21 × 24 × 10 cm.',
         '© UNM Press',
       ]
     },
@@ -210,7 +209,7 @@ export const Images = reactive({
     },
     {
       name: 'Kosmaj Memorial Complex (Koraćica, Serbia)', file: 'yugoslavia.jpg', text: [
-        'Vojin Stojić, Gradimir Medaković (1971). Concrete, rebar. 40 × 30 × 28 m.',
+        'Vojin Stojić, Gradimir Medaković (1971). Concrete, steel. 40 × 30 × 28 m.',
         '© Milena Mijatovic',
       ]
     },
@@ -221,14 +220,14 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'The True Principles of Pointed or Christian Architecture (Augustus Pugin)', file: 'true-principles.jpg', text: [
-        '1841',
+      name: 'The True Principles of Pointed or Christian Architecture', file: 'true-principles.jpg', text: [
+        'Augustus Pugin (1841). 186 pages. 28 × 21 × 0.8 cm',
         '© John Weale',
       ]
     },
     {
-      name: 'Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin? (Lino Bianco)', file: 'limestone-book.jpg', text: [
-        '1998',
+      name: 'Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin?', file: 'limestone-book.jpg', text: [
+        'Lino Bianco (1998). 120 pages. 28 × 20 × 1.4 cm',
         '© University of Malta',
       ]
     },
@@ -264,7 +263,7 @@ export const Images = reactive({
     },
     {
       name: 'Arsenalna Metro Station (Kyiv, Ukraine)', file: 'arsenalna.jpg', text: [
-        '2017',
+        'Gennady Granatkin, Stanislav Krushinsky, Natalia Schukina (1960). Marble, bronze.',
         '© Jorge Láscar',
       ]
     },
