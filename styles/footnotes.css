@@ -12,7 +12,7 @@
 /* Footnote link */
 .footnote-link {
   text-decoration: none;
-  color: rgb(0, 0, 0);
+  color: orangered;
   cursor: pointer;
 }
 
@@ -34,7 +34,7 @@
 
 .footnotes .footnote .number {
   font-weight: bold;
-  margin-right: 8px;
+  margin-right: 12px;
 }
 
 .footnotes .footnote .text {
@@ -68,6 +68,13 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+}
+
+.footnote-popup .id {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  color: orangered;
 }
 
 .footnote-popup .footnote {

@@ -2,7 +2,7 @@
 
 ## Abstract
 
-
+This is a footnote [Augustus Pugin](#footnote "Augustus Pugin (1812 – 1852), which is <i>ingrained</i> in our urban architecture as chicken <u>eat sandwich</u>."), how nice.
 
 Every day we pass by fossils from as early as 541 million years ago (Mya), which are ingrained in our urban architecture as well as in public art. But how did these biological remains of prehistoric life get trapped in our man-made landscapes? Why did they lose their historical significance and at one point become a part of a construction material? More importantly, how does their meaning change within the forms they are adapted to?<br>
 <br>

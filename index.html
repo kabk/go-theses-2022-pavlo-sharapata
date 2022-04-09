@@ -44,31 +44,6 @@
               <span v-html="Content.getChapterContent(chapter)">
               </span>
             </article>
-
-            <!-- special chapter: footnotes -->
-            <article class="chapter all-footnotes-content">
-                <div v-for="footnote in Footnotes.footnotes" class="footnote">
-                    <div class="number">
-                      ^{{ footnote.number }}
-                    </div>
-                    <div class="text" v-html="footnote.text">
-                    </div>
-                </div>
-            </article>
-
-            <!-- special chapter: figures -->
-            <article class="chapter figures" v-if="!Content.isInitialized">
-                <ul>
-                    <li v-for="image in Images.images" class="figure">
-                        <div>
-                            {{ image.name }}, {{ image.text.join(', ')}}
-                        </div>
-                        <div>
-                            <img :src="Images.getUrl(image)">
-                        </div>
-                    </li>
-                </ul>
-            </article>
         </main>
 
         <!-- image popup -->
@@ -90,6 +65,8 @@
         <section class="footnote-popup-overlay" v-if="Footnotes.isVisible" @click="Footnotes.hide()">
         </section>
         <section class="footnote-popup" v-if="Footnotes.isVisible" @click="Footnotes.hide()">
+          <div class="id" v-html="Footnotes.footnote.id">
+          </div>
           <div class="footnote" v-html="Footnotes.footnote.text">
           </div>
         </section>

@@ -273,9 +273,8 @@ export const Images = reactive({
         '2011',
         '© George Plakides',
       ]
-    } 
+    }
   ],
-  
 
   // Initializes the images
   initialize () {
@@ -325,5 +324,16 @@ export const Images = reactive({
     const image = this.images.find(image => image.name == name)
     if (!image) throw new Error(`Image ${name} not defined in Images service`)
     this.image = image
+  },
+
+  // Returns HTML element containing a list of all images
+  getFiguresList () {
+    const figures = this.images.map(i => `
+      <li>
+        <img src="${this.getUrl(i)}">
+        <footer>${i.text}</footer>
+      </li>`
+    )
+    return `<ul>${figures.join('\n')}</ul>`
   }
 })

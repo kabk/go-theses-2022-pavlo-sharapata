@@ -1,6 +1,7 @@
 const { reactive } = window.Vue
 const { markdownit, markdownitFootnote } = window
 import { Footnotes } from './footnotes.js'
+import { Images } from './images.js'
 
 /**
  * Access to website content - chapters etc.
@@ -14,18 +15,18 @@ export const Content = reactive({
   // - Define special chapter whose content is in HTML, using `element` parameter
   // - Define custom CSS class for chapter, using `className` parameter
   chapters: [
-    { title: 'Neohabitat', file: '00-title.md', content: '', chapterClass: 'center full-height', showInMenu: false },
-    { title: 'Abstract,', file: '00-abstract.md', content: '', chapterClass: '' },
+    { title: 'Neohabitat', file: '00-title.md', chapterClass: 'center full-height', showInMenu: false },
+    { title: 'Abstract,', file: '00-abstract.md', chapterClass: '' },
     { title: 'Methods,', file: '01-methods.md', content: '' },
-    { title: 'Introduction,', file: '02-introduction.md', content: '', linebreak: true },
+    { title: 'Introduction,', file: '02-introduction.md', linebreak: true },
     { title: 'The Origin,', file: '03-the-origin.md', content: '' },
-    { title: 'The Truth,', file: '04-the-truth.md', content: '', },
+    { title: 'The Truth,', file: '04-the-truth.md', },
     { title: 'The Cycle,', file: '05-the-cycle.md', content: '' },
-    { title: 'The Fossil', file: '06-the-fossil.md', content: '', linebreak: true },
-    { title: 'Conclusion,', file: '07-conclusion.md', content: '', chapterClass: '' },
+    { title: 'The Fossil', file: '06-the-fossil.md', linebreak: true },
+    { title: 'Conclusion,', file: '07-conclusion.md', chapterClass: '' },
     { title: 'Footnotes,', chapterClass: 'all-footnotes', content: () => Footnotes.getFootnotesList() },
-    { title: 'Bibliography,', file: '07-bibliography.md', content: '', chapterClass: 'bibliography' },
-    { title: 'Figures', element: '.figures', chapterClass: 'figures' },
+    { title: 'Bibliography,', file: '07-bibliography.md', chapterClass: 'bibliography' },
+    { title: 'Figures', chapterClass: 'figures', content: () => Images.getFiguresList() },
   ],
 
   // List of chapters which should be visible in the main menu.

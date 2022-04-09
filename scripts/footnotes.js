@@ -8,16 +8,11 @@ export const Footnotes = reactive({
   footnotes: [],
 
   // Currently displayed footnote
-  footnote: { id: null, text: null, isVisible: false, height: 0 },
+  footnote: null,
 
   // Returns true if there is a footnote visible
   get isVisible () {
-    return this.footnote.id != null && this.footnote.isVisible
-  },
-
-  // Height of the current footnote
-  get height () {
-    return this.footerHelper.clientHeight
+    return this.footnote != null
   },
 
   // Initializes the footnotes, by capturing footnote links
@@ -26,47 +21,42 @@ export const Footnotes = reactive({
   initialize () {
     this.footnotes = []
 
-    const footnoteLinks = document.querySelectorAll('a[id]')
-    for (const link of Array.from(footnoteLinks)) {
-      const id = link.getAttribute('href').substring(1)
-      const number = id.substring(2)
-      console.log('Footnote', id)
-      link.innerHTML = id.substring(2)
-      link.className = 'footnote-link'
-      link.setAttribute('href', '#')
-      link.addEventListener('click', () => this.show(id))
-      const footnoteElement = document.querySelector(`.footnote-item[id="${id}"]`)
-      const text = footnoteElement ? footnoteElement.innerHTML : 'Footnote text is missing'
-      const footnote = { id, number, text }
-      this.footnotes.push(footnote)
+    // Find all footnote links
+    const footnoteLinks = document.querySelectorAll('a[href="#footnote"]')
+    for (const footnoteLink of Array.from(footnoteLinks)) {
+      const text = footnoteLink.getAttribute('title')
+      const id = footnoteLink.innerText
+      this.footnotes.push({ id, text })
+
+      footnoteLink.href = '#'
+      footnoteLink.classList.add('footnote-link')
+      footnoteLink.setAttribute('title', '')
+      footnoteLink.addEventListener('click', () => {
+        this.show(id)
+      })
     }
   },
 
-  // Retrieves the text of the specified footnote
+  // Retrieves the specified footnote
   getFootnote (id) {
-    const element = document.querySelector(`li[id=${id}]`)
-    if (element) {
-      return element.innerHTML
-    }
+    return this.footnotes.find(footnote => footnote.id === id)
   },
 
   // Hides the displayed footnote
   hide () {
-    this.footnote.isVisible = false
+    this.footnote = null
   },
 
   // Displays the specified footnote
   show (id) {
-    // Render footnote text
-    const text = this.getFootnote(id)
-    this.footnote = { id, text, isVisible: text != null }
+    this.footnote = this.getFootnote(id)
   },
 
   // Returns HTML element containing a list of all footnotes
   getFootnotesList () {
     const footnotes = this.footnotes.map(f => `
       <li>
-        <span class="number">${f.number}</span>
+        <span class="number">${f.id}</span>
         <span class="text">${f.text}</span>
       </li>`
     )
