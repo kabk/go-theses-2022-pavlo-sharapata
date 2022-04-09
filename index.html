@@ -65,7 +65,11 @@
         <section class="footnote-popup-overlay" v-if="Footnotes.isVisible" @click="Footnotes.hide()">
         </section>
         <section class="footnote-popup" v-if="Footnotes.isVisible" @click="Footnotes.hide()">
-            <div class="id" v-html="Footnotes.footnote.id">
+          <div class="details">
+            <div v-html="Footnotes.footnote.id" class="id">
+            </div>
+            <div v-for="detail in Footnotes.footnote.details" v-html="detail" class="detail">
+            </div>
           </div>
           <div class="footnote" v-html="Footnotes.footnote.text">
           </div>

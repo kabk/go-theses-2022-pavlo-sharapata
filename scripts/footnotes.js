@@ -4,7 +4,7 @@ const { reactive } = window.Vue
  * Handles all things related to displaying footnotes
  */
 export const Footnotes = reactive({
-  // All footnotes
+  // All footnotes, in format { id: '', text:'', details: [] }
   footnotes: [],
 
   // Currently displayed footnote
@@ -24,9 +24,10 @@ export const Footnotes = reactive({
     // Find all footnote links
     const footnoteLinks = document.querySelectorAll('a[href="#footnote"]')
     for (const footnoteLink of Array.from(footnoteLinks)) {
-      const text = footnoteLink.getAttribute('title') 
+      const text = footnoteLink.getAttribute('title').split('|')[0]
+      const details = footnoteLink.getAttribute('title').split('|').slice(1)
       const id = footnoteLink.innerText
-      this.footnotes.push({ id, text })
+      this.footnotes.push({ id, text, details })
 
       footnoteLink.href = '#'
       footnoteLink.classList.add('footnote-link')
@@ -35,6 +36,8 @@ export const Footnotes = reactive({
         this.show(id)
       })
     }
+
+    console.log(this.footnotes)
   },
 
   // Retrieves the specified footnote
@@ -57,9 +60,17 @@ export const Footnotes = reactive({
     const footnotes = this.footnotes.map(f => `
       <li>
         <span class="number">${f.id}</span>
-        <span class="text">${f.text}</span>
+        <div class="footnote">
+          <span class="text">${f.text}</span>
+          ${f.details.map(d => `<span class="detail">${d}</span>`).join('\n')}
+        </div>
       </li>`
     )
-    return `<ul>${footnotes.join('\n')}</ul>`
+    return `
+      <h2>
+        Footnotes
+      </h2>
+      <ul>${footnotes.join('\n')}</ul>
+    `
   }
 })

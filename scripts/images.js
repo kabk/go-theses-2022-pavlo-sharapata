@@ -334,6 +334,11 @@ export const Images = reactive({
         <footer>${i.text}</footer>
       </li>`
     )
-    return `<ul>${figures.join('\n')}</ul>`
+    return `
+      <h2>
+        Figures
+      </h2>
+      <ul>${figures.join('\n')}</ul>
+    `
   }
 })
