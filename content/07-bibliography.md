@@ -2,7 +2,7 @@
 
 <div class="subchapter">
 
-###   Ranke, Leopold von, and Georg G. Iggers
+###   Leopold von Ranke, Georg Iggers
 
 </div>
 
@@ -11,16 +11,16 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###   Thompson, Helen   
+###   Helen  Thompson  
 
 </div>
 
-*What Does “&hairsp;Deep Time&hairsp;” Mean to You?*. Smithsonian Magazine (2014) [[&hairsp;↗&hairsp;]](https://www.smithsonianmag.com/science-nature/what-does-deep-time-mean-to-you-180952603/)
+*What Does “&hairsp;Deep Time&hairsp;” Mean to You?* &hairsp;Smithsonian Magazine (2014) [[&hairsp;↗&hairsp;]](https://www.smithsonianmag.com/science-nature/what-does-deep-time-mean-to-you-180952603/)
 
 
 <div class="subchapter">
 
-###   Rich, Anina 
+###   Anina Rich
 
 </div>
 
@@ -40,7 +40,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###   Baker, Sinéad 
+###   Sinéad Baker
 
 </div>
 
@@ -49,7 +49,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###    Hansen, Thor Arthur, and Carl Fred Koch
+###    Arthur Hansen, Carl Fred Koch
 
 </div>
 
@@ -58,7 +58,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###    Wani, Ryoji, et al
+###    Ryoji Wani, et al
 
 </div>
 
@@ -67,7 +67,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###    Greshko, Michael
+###    Michael Greshko
 
 </div>
 
@@ -103,7 +103,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###    Courland, Robert
+###    Robert Courland
 
 </div>
 
@@ -111,7 +111,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###     Snell, Luke, and Billie Snell
+###    Luke Snell, Billie Snell
 
 </div>
 
@@ -119,7 +119,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###  Pugin, Augustus
+###  Augustus Pugin
 
 </div>
 
@@ -127,7 +127,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###   Bianco, Lino
+###   Lino Bianco
 
 </div>
 
@@ -135,7 +135,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###   Moore, Henry, et al
+###   Henry Moore, et al
 
 </div>
 
@@ -143,7 +143,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###   Boggs, Sam
+###   Sam Boggs
 
 </div>
 
@@ -151,7 +151,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###   Price, Monica  
+###   Monica Price 
 
 </div>
 
@@ -159,7 +159,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###   Monahan, Patrick 
+###   Patrick Monahan
 
 </div>
 
@@ -168,7 +168,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###   Pérez-Huerta, Alberto and Coronado, Ismael
+###   Alberto Pérez-Huerta, Ismael Coronado
 
 </div>
 
