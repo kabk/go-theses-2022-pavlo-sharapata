@@ -70,7 +70,7 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Joseph Aspdin', file: 'joseph-aspdin.jpg', text: [
+      name: 'Banded Ironstone Formation (Ricardo, California, United States)', file: 'banded-ironstone.jpg', text: [
         'Text',
         '2019',
         '(c)'
