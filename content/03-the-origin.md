@@ -32,7 +32,7 @@ American pronunciation: [*faa-sl* ]   <br>
 
 <br>
 
-Fossil, remnant, impression, or trace of an animal or plant of a past geologic age that has been preserved in Earth's crust. The complex of data recorded in fossils worldwide, known as the [Fossil Record](#footnote "The fossil record helps paleontologists, archaeologists, and geologists place important events and species in the appropriate geologic era. It is based on the Law of Superposition which states that in undisturbed rock sequences the bottom layers are older than the top layers."), is the primary source of information about the history of life on Earth. Meaning that this record can be read by experts. This record lets all paleontologists, archaeologists, and geologists place events and species in their relevant Geologic Era. As National Geographic Library explains: <br>
+Fossil, remnant, impression, or trace of an animal or plant of a past geologic age that has been preserved in Earth's crust. The complex of data recorded in fossils worldwide, known as the [fossil record](#footnote "The fossil record helps paleontologists, archaeologists, and geologists place important events and species in the appropriate geologic era. It is based on the Law of Superposition which states that in undisturbed rock sequences the bottom layers are older than the top layers."), is the primary source of information about the history of life on Earth. Meaning that this record can be read by experts. This record lets all paleontologists, archaeologists, and geologists place events and species in their relevant Geologic Era. As National Geographic Library explains: <br>
 
 <br>
 

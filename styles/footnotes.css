@@ -12,7 +12,7 @@
 /* Footnote link */
 .footnote-link {
   text-decoration: none;
-  color: orangered;
+  color: rgb(178, 182, 184);
   cursor: pointer;
 }
 
@@ -74,7 +74,9 @@
   position: absolute;
   left: 16px;
   top: 16px;
-  color: orangered;
+  color: rgb(178, 182, 184);
+  font-size: 13px;
+  line-height: 13.4px;
 }
 
 .footnote-popup .footnote {
