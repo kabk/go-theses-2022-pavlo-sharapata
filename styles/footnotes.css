@@ -54,6 +54,11 @@
     top: 0;
     bottom: 0;
     background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .footnote-popup {
@@ -65,6 +70,7 @@
     bottom: 0;
     opacity: 1;
     display: flex;
+    flex: 1;
     flex-direction: row;
     align-items: center;
     justify-content: center;
@@ -72,18 +78,21 @@
 
 .footnote-popup .id {
   position: absolute;
-  left: 16px;
-  top: 16px;
-  color: rgb(178, 182, 184);
+  left: 6px;
+  top: 4px;
+  font-size: 13px;
+  line-height: 13.4px;
+  margin: 0;
+  list-style: none;
+  color: #0a0a0a;
   font-size: 13px;
   line-height: 13.4px;
 }
 
 .footnote-popup .footnote {
   width: 50vw;
-  height: 50vh;
   background-color: white;
   padding: 32px;
   font-size: 20px;
-  text-align: center
+  text-align: center;
 }

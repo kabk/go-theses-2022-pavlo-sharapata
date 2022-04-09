@@ -56,11 +56,14 @@
 }
 
 .chapter.all-footnotes {
-  
+  padding: 0;
+  margin: 0;
+  padding-bottom: 8%;
 }
 
 .chapter.all-footnotes ul {
   list-style: none;
+  
   margin: 0;
   padding: 0;
 }
@@ -69,7 +72,7 @@
   margin: 0;
   padding: 0 0 8px 0;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .chapter.all-footnotes p {
@@ -77,13 +80,21 @@
 }
 
 .chapter.all-footnotes .number {
-  font-style: italic;
-  margin-right: 8px;
+  font-size: 13px;
+  color: black;
+  text-align: left;
+  padding-left: 6px;
+  /* distance between footnote title and footnote */
+  margin-bottom: 25px;
 }
 
 .chapter.all-footnotes .text {
   font-weight: normal;
   font-size: 16px;
+  /* change these to style indents */
+  padding:0 16.66% 0 16.66%;
+  font-size: 20px;
+  line-height: 21.5px;
 }
 
 .chapter.bibliography {
@@ -124,4 +135,29 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+
+/* -------------------------------------------- Styling for Mobile elements ------------------------------------------------ */
+
+
+@media (max-width: 600px) {
+
+  .chapter {
+    /* Adjust margins for main text (B L T R) */
+    padding:2% 8% 7.5% 8%;
+  }
+
+  .chapter .quote {
+    /* Adjust margins for quotes (B L T R) */
+    padding: 0 10% 0 10%;
+   }
+   
+
+  .subchapter {
+    margin-left: -9.5%;
+    padding-top: 2.96px;
+    padding-bottom: 2.96px;
+  }
+  
 }

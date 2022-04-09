@@ -32,3 +32,11 @@ h3 {
   margin: 0px;
   margin-top: -2px;
 }
+
+@media (max-width: 600px) {
+
+  h2 {
+    margin-bottom: 100px;
+  }
+  
+}
