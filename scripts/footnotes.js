@@ -24,7 +24,7 @@ export const Footnotes = reactive({
     // Find all footnote links
     const footnoteLinks = document.querySelectorAll('a[href="#footnote"]')
     for (const footnoteLink of Array.from(footnoteLinks)) {
-      const text = footnoteLink.getAttribute('title')
+      const text = footnoteLink.getAttribute('title') 
       const id = footnoteLink.innerText
       this.footnotes.push({ id, text })
 
