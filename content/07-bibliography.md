@@ -15,7 +15,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*What Does “&hairsp;Deep Time&hairsp;” Mean to You?* &hairsp;Smithsonian Magazine (2014) <br>
+*What Does “&hairsp;Deep Time&hairsp;” Mean to You?* Smithsonian Magazine (2014) <br>
 [[&hairsp;↗&hairsp;]](https://www.smithsonianmag.com/science-nature/what-does-deep-time-mean-to-you-180952603/)
 
 
@@ -25,7 +25,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*What is the Baader-Meinhof Phenomenon?* &hairsp;Macquarie University (2020) [[&hairsp;↗&hairsp;]](https://www.lighthouse.mq.edu.au/article/july-2020/What-is-the-Baader-Meinhof-Phenomenon)
+*What is the Baader-Meinhof Phenomenon?* Macquarie University (2020) [[&hairsp;↗&hairsp;]](https://www.lighthouse.mq.edu.au/article/july-2020/What-is-the-Baader-Meinhof-Phenomenon)
 
 
 <div class="subchapter">
@@ -45,7 +45,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Kiev's Soviet-Era Metro System, Home to the Deepest Subway Station in the World*. &hairsp;Business Insider Nederland (2019) 
+*Kiev's Soviet-Era Metro System, Home to the Deepest Subway Station in the World*. Business Insider Nederland (2019) 
 [[&hairsp;↗&hairsp;]](https://www.businessinsider.nl/kiev-ukraine-soviet-era-metro-system-beautiful-deepest-world-2019-9?international=true&r=US.)<br>
 
 <div class="subchapter">
@@ -54,7 +54,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Cretaceous Period.* &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc (1999) 
+*Cretaceous Period.* Encyclopædia Britannica, Encyclopædia Britannica, Inc (1999) 
 [[&hairsp;↗&hairsp;]](https://www.britannica.com/science/Cretaceous-Period.) <br>
 
 <div class="subchapter">
@@ -63,7 +63,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Ontogenetic Trajectories of Septal Spacing in Early Jurassic Belemnites from Germany and France, and Their Palaeobiological Implications.* &hairsp;Wiley Online Library, John Wiley & Sons, Ltd (2017) 
+*Ontogenetic Trajectories of Septal Spacing in Early Jurassic Belemnites from Germany and France, and Their Palaeobiological Implications.* Wiley Online Library, John Wiley & Sons, Ltd (2017) 
 [[&hairsp;↗&hairsp;]](https://www.onlinelibrary.wiley.com/doi/10.1111/pala.12327.) <br>
 
 <div class="subchapter">
@@ -72,7 +72,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
- *Volcanoes May Have Helped Life Bounce Back after Dinosaur-Killing Asteroid Strike*. &hairsp;Science, National Geographic (2021) <br>
+ *Volcanoes May Have Helped Life Bounce Back after Dinosaur-Killing Asteroid Strike*. Science, National Geographic (2021) <br>
  [[&hairsp;↗&hairsp;]](https://www.nationalgeographic.com/science/article/volcanoes-helped-life-bounce-back-afterdinosaur-killing-asteroid.) 
 
 <div class="subchapter">
@@ -81,7 +81,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Fossil*. &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc (2014) <br>
+*Fossil*. Encyclopædia Britannica, Encyclopædia Britannica, Inc (2014) <br>
 [[&hairsp;↗&hairsp;]](https://www.britannica.com/science/fossil. )
 
 <div class="subchapter">
@@ -99,7 +99,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Fossil Record.* &hairsp;National Geographic Society (2011) 
+*Fossil Record*. National Geographic Society (2011) 
 [[&hairsp;↗&hairsp;]](https://www.nationalgeographic.org/topics/resource-library-fossil-record/?q=&page=1&per_page=25.)
 
 <div class="subchapter">
@@ -132,7 +132,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Limestone in Post-War British Architecture: Is It a Plea for a Return to Pugin?*&hairsp; Melita Theologica, p. 77 (1998) <br>
+*Limestone in Post-War British Architecture: Is It a Plea for a Return to Pugin?*s Melita Theologica, p. 77 (1998) <br>
 
 <div class="subchapter">
 
@@ -140,7 +140,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Unit One: Spirit of the 30's, May-June 1984: An Exhibition to Celebrate the Half Centenary of the First Unit One Exhibition Held at the Mayor Gallery* Mayor Gallery (1934)  <br>
+*Unit One: Spirit of the 30's, May-June 1984: An Exhibition to Celebrate the Half Centenary of the First Unit One Exhibition Held at the Mayor Gallery*. Mayor Gallery (1934)  <br>
 
 <div class="subchapter">
 
@@ -148,7 +148,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Principles of Sedimentology and Stratigraphy*, Pearson Prentice Hall, Upper Saddle River, N.J. pp. 177&hairsp;–&hairsp;181 (2006)
+*Principles of Sedimentology and Stratigraphy*. Pearson Prentice Hall, Upper Saddle River, N.J. pp. 177&hairsp;–&hairsp;181 (2006)
 
 <div class="subchapter">
 
