@@ -189,25 +189,25 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Tomb of Darius II', file: 'tomb-of-darius2.jpg', text: [
+      name: 'Tomb of Darius II (Marvdasht, Fars, Iran)', file: 'tomb-of-darius2.jpg', text: [
         '(550 – 330 B.C.) Sandstone rock. 23 × 18 m.',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Tomb of Artaxerxes I', file: 'tomb-of-xerxes.jpg', text: [
+      name: 'Tomb of Artaxerxes I (Marvdasht, Fars, Iran)', file: 'tomb-of-xerxes.jpg', text: [
         '(550 – 330 B.C.) Sandstone rock. 23 × 18 m.',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Tomb of Darius the Great', file: 'tomb-of-darius.jpg', text: [
+      name: 'Tomb of Darius the Great (Marvdasht, Fars, Iran)', file: 'tomb-of-darius.jpg', text: [
         '(550 – 330 B.C.) Sandstone rock. 23 × 18 m.',
         '© Carole Raddato',
       ]
     },
     {
-      name: 'Tomb of Xerxes I', file: 'tomb-of-artaxerxes.jpg', text: [
+      name: 'Tomb of Xerxes I (Marvdasht, Fars, Iran)', file: 'tomb-of-artaxerxes.jpg', text: [
         '(550 – 330 B.C.) Sandstone rock. 18 × 14 m.',
         '© Carole Raddato',
       ]
