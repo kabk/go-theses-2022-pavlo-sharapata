@@ -53,7 +53,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Cretaceous Period.* &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc. (1999) 
+*Cretaceous Period.* &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc (1999) 
 [[&hairsp;↗&hairsp;]](https://www.britannica.com/science/Cretaceous-Period.) <br>
 
 <div class="subchapter">
@@ -62,7 +62,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Ontogenetic Trajectories of Septal Spacing in Early Jurassic Belemnites from Germany and France, and Their Palaeobiological Implications.* &hairsp;Wiley Online Library, John Wiley & Sons, Ltd. (2017) 
+*Ontogenetic Trajectories of Septal Spacing in Early Jurassic Belemnites from Germany and France, and Their Palaeobiological Implications.* &hairsp;Wiley Online Library, John Wiley & Sons, Ltd (2017) 
 [[&hairsp;↗&hairsp;]](https://www.onlinelibrary.wiley.com/doi/10.1111/pala.12327.) <br>
 
 <div class="subchapter">
@@ -80,7 +80,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Fossil*. &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc. (2014)
+*Fossil*. &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc (2014)
 [[&hairsp;↗&hairsp;]](https://www.britannica.com/science/fossil. )
 
 <div class="subchapter">
@@ -89,7 +89,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Fossil Record*. Encyclopædia Britannica, Encyclopædia Britannica, Inc. (2012)
+*Fossil Record*. Encyclopædia Britannica, Encyclopædia Britannica, Inc (2012)
 [[&hairsp;↗&hairsp;]](https://www.britannica.com/science/fossil-record)
 
 <div class="subchapter">
@@ -163,7 +163,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Most species that disappear today will leave no trace in the fossil record*. Science Org. (2016)
+*Most species that disappear today will leave no trace in the fossil record*. Science Org (2016)
 [[&hairsp;↗&hairsp;]](https://www.science.org/content/article/most-species-disappear-today-will-leave-no-trace-fossil-record)
 
 <div class="subchapter">
