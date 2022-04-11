@@ -17,7 +17,7 @@ Long before the final days of the [Cretaceous period](#footnote "The Cretaceous 
 
 </div>
 
-The reason why these organisms have been preserved in such an excellent condition all the way until today, is because each of their [morphologies](#footnote "Morphology is the study of animal form. In paleontology, this primarily refers to the study of bone anatomy and function, and muscle construction|<i>English Pronouncing Dictionary</i> &hairsp;(2003)|© Daniel Jones, Peter Roach, James Hartmann") contained a hard shell as part of the body. They were not eaten by scavengers or decomposed by microorganisms, but presumably, they passed away by age, before the mass extinction happened of course. Additionally, the shell and exoskeleton parts of their body decayed much slower than the soft tissues. The fact that most of them lived and eventually died underwater or even underground, means they were also not exposed to the open air and processes of oxidation. These material conditions and the environmental context of being underwater led to them being preserved in a certain degree.<br>
+The reason why these organisms have been preserved in such an excellent condition all the way until today, is because each of their [morphologies](#footnote "Morphology is the study of animal form. In Paleontology, this primarily refers to the study of bone anatomy and function, and muscle construction|<i>English Pronouncing Dictionary</i> &hairsp;(2003)|© Daniel Jones, Peter Roach, James Hartmann") contained a hard shell as part of the body. They were not eaten by scavengers or decomposed by microorganisms, but presumably, they passed away by age, before the mass extinction happened of course. Additionally, the shell and exoskeleton parts of their body decayed much slower than the soft tissues. The fact that most of them lived and eventually died underwater or even underground, means they were also not exposed to the open air and processes of oxidation. These material conditions and the environmental context of being underwater led to them being preserved in a certain degree.<br>
 <br>
 
 <div class="quote">
@@ -25,8 +25,8 @@ The reason why these organisms have been preserved in such an excellent conditio
 Today&hairsp;—&hairsp;we call them fossils.  <br>
 Noun: *fossil* &hairsp;(&hairsp;fos-​sil&hairsp;)<br>
 From Classical Latin: *fossilis*, literally '&hairsp;obtained by digging&hairsp;'<br>
-English pronunciation: [*fo-sl* ]  <br>
-American pronunciation: [*faa-sl* ]   <br>
+English phonology: [*fo-sl* ]  <br>
+American phonology: [*faa-sl* ]   <br>
 
 </div>
 
@@ -38,7 +38,7 @@ Fossil, remnant, impression, or trace of an animal or plant of a past geologic a
 
 <div class="quote">
 
-“&hairsp;&hairsp;The fossil record is based on the [*Law of Superposition*](#footnote "The Law of Superposition is an axiom that forms one of the bases of the sciences of geology, archaeology, and other fields pertaining to geological stratigraphy.|<i>The Earth's Dynamic Systems: A Textbook in Physical Geology</i> &hairsp;(1978)|© Kenneth Hamblin"), which states that in undisturbed rock sequences the bottom layers are older than the top layers. Therefore, some discovered fossils are able to be dated according to the strata, a distinct layer of rock, that they are found in.&hairsp;” <br>
+“&hairsp;&hairsp;The fossil record is based on the [*Law of Superposition*](#footnote "The <i>Law of Superposition</i>&hairsp; is an axiom that forms one of the bases of the sciences of geology, archaeology, and other fields pertaining to geological stratigraphy.|<i>The Earth's Dynamic Systems: A Textbook in Physical Geology</i> &hairsp;(1978)|© Kenneth Hamblin"), which states that in undisturbed rock sequences the bottom layers are older than the top layers. Therefore, some discovered fossils are able to be dated according to the strata, a distinct layer of rock, that they are found in.&hairsp;” <br>
 
 </div>
 

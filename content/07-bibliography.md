@@ -58,7 +58,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###    Ryoji Wani, et al
+###    Ryoji Wani, and others
 
 </div>
 
@@ -76,7 +76,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###    The Editors of Encyclopaedia Britannica
+###    The Editors of Encyclopædia Britannica
 
 </div>
 
@@ -85,7 +85,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###    The Editors of Encyclopaedia Britannica
+###    The Editors of Encyclopædia Britannica
 
 </div>
 
@@ -115,7 +115,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Oldest Concrete Street in the United States Concrete International*&hairsp; (2002) 
+*Oldest Concrete Street in the United States*. Concrete International (2002) 
 
 <div class="subchapter">
 
@@ -135,7 +135,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 <div class="subchapter">
 
-###   Henry Moore, et al
+###   Henry Moore, and others
 
 </div>
 
