@@ -81,8 +81,6 @@ a[href="#figure"] {
   margin: 0;
   display: flex;
   flex-direction: column;
-  /* values below image title*/
-  margin-bottom: 25px;
 }
 
 .figures li img {
@@ -90,7 +88,7 @@ a[href="#figure"] {
     max-height: 75vh;
     align-self: center;
 /* values below image*/
-    margin-bottom: 45px;
+    margin-bottom: 25px;
 }
 
 .figures li footer {
@@ -100,7 +98,9 @@ a[href="#figure"] {
     color: black;
     text-align: left;
     padding-left: 6px;
+    /* values below text*/
     margin-bottom: 25px;
+
 }
 
 
