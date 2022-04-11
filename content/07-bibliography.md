@@ -15,7 +15,8 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*What Does “&hairsp;Deep Time&hairsp;” Mean to You?* &hairsp;Smithsonian Magazine (2014) [[&hairsp;↗&hairsp;]](https://www.smithsonianmag.com/science-nature/what-does-deep-time-mean-to-you-180952603/)
+*What Does “&hairsp;Deep Time&hairsp;” Mean to You?* &hairsp;Smithsonian Magazine (2014) <br>
+[[&hairsp;↗&hairsp;]](https://www.smithsonianmag.com/science-nature/what-does-deep-time-mean-to-you-180952603/)
 
 
 <div class="subchapter">
@@ -80,7 +81,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Fossil*. &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc (2014)
+*Fossil*. &hairsp;Encyclopædia Britannica, Encyclopædia Britannica, Inc (2014) <br>
 [[&hairsp;↗&hairsp;]](https://www.britannica.com/science/fossil. )
 
 <div class="subchapter">
