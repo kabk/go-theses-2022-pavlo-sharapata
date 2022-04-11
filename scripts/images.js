@@ -88,7 +88,7 @@ export const Images = reactive({
     },
     {
       name: 'Court Avenue (Bellefontaine, Ohio, United States)', file: 'court-avenue.jpg', text: [
-        '1893',
+        '1929',
         '© Ohio History Central',
       ]
     },
