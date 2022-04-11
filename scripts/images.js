@@ -141,6 +141,12 @@ export const Images = reactive({
       ]
     },
     {
+      name: 'Lino Bianco (1965 – )', file: 'lino-bianco.jpg', text: [
+        '2019',
+        '© Joeaby Vassallo',
+      ]
+    },
+    {
       name: 'Marble Formation (Coconino, Arizona, United States)', file: 'marble.jpg', text: [
         '2006',
         '© Astrid Westvang',
