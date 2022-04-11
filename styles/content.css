@@ -55,24 +55,27 @@
 .chapter.figures {
 }
 
+  /* -------------------------------------- Special Chapter: Footnotes -------------------------------------- */
+
 .chapter.all-footnotes {
   padding: 0;
   margin: 0;
-  padding-bottom: 8%;
 }
 
 .chapter.all-footnotes ul {
   list-style: none;
-
+  display: flex;
+  flex-direction: column;
   margin: 0;
   padding: 0;
 }
 
 .chapter.all-footnotes li {
   margin: 0;
-  padding: 15px 0 25px 0;
+  padding-top: 2.96px;
+  padding-bottom: 2.96px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .chapter.all-footnotes p {
@@ -87,15 +90,16 @@
   text-transform: capitalize;
   line-height: 13.4px;
   padding-left: 6px;
-  /* distance between footnote title and footnote */
 }
 
 .chapter.all-footnotes .footnote {
   flex: 1;
+  padding: 0 16.66% 0 16.66%;
   display: flex;
   flex-direction: column;
-  padding-right: 16.66%;
-  margin-top: 38px;
+/* adjust margins between footnotes */
+  margin-top: 13px;
+  margin-bottom: 13px;
 }
 
 .chapter.all-footnotes .text {
@@ -112,6 +116,8 @@
   display: none;
   color: black;
 }
+
+  /* -------------------------------------- End Special Chapter: Footnotes -------------------------------------- */
 
 .chapter.bibliography {
 
@@ -157,7 +163,7 @@
 /* -------------------------------------------- Styling for Mobile elements ------------------------------------------------ */
 
 
-@media (max-width: 600px) {
+@media (max-width: 960px) {
 
   .chapter {
     /* Adjust margins for main text (B L T R) */
@@ -176,4 +182,8 @@
     padding-bottom: 2.96px;
   }
 
+  .chapter.all-footnotes .footnote {
+    flex: 1;
+    padding: 0 8% 0 8%;
+  }
 }

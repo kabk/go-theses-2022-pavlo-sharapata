@@ -64,7 +64,6 @@ a[href="#figure"] {
     margin: 0;
     display: flex;
     flex-direction: column;
-    margin-left: -16.66%;
     font-size: 20px;
     line-height: 21.5px;
     color: rgb(0, 0, 0);
@@ -77,21 +76,25 @@ a[href="#figure"] {
 }
 
 .figures li {
+    
   padding: 0;
   margin: 0;
   display: flex;
   flex-direction: column;
+  /* values below image title*/
   margin-bottom: 25px;
 }
 
 .figures li img {
-    width: 45vw;
+    max-width: 75vw;
+    max-height: 75vh;
     align-self: center;
-    padding-left: 16.66%;
+/* values below image*/
     margin-bottom: 45px;
 }
 
 .figures li footer {
+    margin-left: -25%;
     font-size: 13px;
     color: black;
     text-align: left;
@@ -103,18 +106,16 @@ a[href="#figure"] {
 @media (max-width: 600px) {
 
     .figures li img {
-        width: 85vw;
+        width: 75vw;
     }
 
-    .figures {
-        margin-left: -12%;
-    }
 
 .figures li footer {
     font-size: 13px;
     color: black;
     text-align: left;
     padding-left: 30px;
+    margin-left: -15.25%;
     margin-bottom: 25px;
 }
 
