@@ -334,7 +334,7 @@ export const Images = reactive({
     )
     return `
       <h2>
-        Figures
+        Gallery
       </h2>
       <ul>${figures.join('\n')}</ul>
     `

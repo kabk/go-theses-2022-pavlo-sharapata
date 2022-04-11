@@ -68,7 +68,7 @@ export const Footnotes = reactive({
     )
     return `
       <h2>
-        Footnotes
+        Glossary
       </h2>
       <ul>${footnotes.join('\n')}</ul>
     `

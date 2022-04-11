@@ -34,7 +34,7 @@ a[href="#figure"] {
 }
 
 .image-popup img {
-    max-width: 75vw;
+    max-width: 82vw;
     max-height: 75vh;
 }
 
@@ -68,6 +68,7 @@ a[href="#figure"] {
     line-height: 21.5px;
     color: rgb(0, 0, 0);
 }
+
 
 .figures ul {
     list-style: none;
@@ -116,7 +117,7 @@ a[href="#figure"] {
     color: black;
     text-align: left;
     padding-left: 30px;
-    margin-left: -15.25%;
+    margin-left: -14.5%;
     margin-bottom: 25px;
 }
 

@@ -17,16 +17,16 @@ export const Content = reactive({
   chapters: [
     { title: 'Neohabitat', file: '00-title.md', chapterClass: 'center full-height', showInMenu: false },
     { title: 'Abstract,', file: '00-abstract.md', chapterClass: '' },
-    { title: 'Methods,', file: '01-methods.md', content: '' },
+    { title: 'Methodology,', file: '01-methods.md', content: '' },
     { title: 'Introduction,', file: '02-introduction.md', linebreak: true },
     { title: 'The Origin,', file: '03-the-origin.md', content: '' },
     { title: 'The Truth,', file: '04-the-truth.md', },
     { title: 'The Cycle,', file: '05-the-cycle.md', content: '' },
     { title: 'The Fossil', file: '06-the-fossil.md', linebreak: true },
     { title: 'Conclusion,', file: '07-conclusion.md', chapterClass: '' },
-    { title: 'Footnotes,', chapterClass: 'all-footnotes', content: () => Footnotes.getFootnotesList() },
+    { title: 'Glossary,', chapterClass: 'all-footnotes', content: () => Footnotes.getFootnotesList() },
     { title: 'Bibliography,', file: '07-bibliography.md', chapterClass: 'bibliography' },
-    { title: 'Figures', chapterClass: 'figures', content: () => Images.getFiguresList() },
+    { title: 'Gallery', chapterClass: 'figures', content: () => Images.getFiguresList() },
   ],
 
   // List of chapters which should be visible in the main menu.
