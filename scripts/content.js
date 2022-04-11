@@ -18,7 +18,7 @@ export const Content = reactive({
     { title: 'Neohabitat', file: '00-title.md', chapterClass: 'center full-height', showInMenu: false },
     { title: 'Abstract,', file: '00-abstract.md', chapterClass: '' },
     { title: 'Methodology,', file: '01-methods.md', content: '' },
-    { title: 'Introduction,', file: '02-introduction.md', linebreak: true },
+    { title: 'Introduction', file: '02-introduction.md', linebreak: true },
     { title: 'The Origin,', file: '03-the-origin.md', content: '' },
     { title: 'The Truth,', file: '04-the-truth.md', },
     { title: 'The Cycle,', file: '05-the-cycle.md', content: '' },
