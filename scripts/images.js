@@ -8,9 +8,15 @@ export const Images = reactive({
   // Available images
   images: [
     {
-      name: 'Leopold von Ranke (1795 – 1886)', file: 'leopold-von-ranke.jpg', text: [
-        'Julius Schrader (1868). Oil on canvas. 110 × 96 cm.',
-        '© Märkisches Museum',
+      name: 'Strata Formation (Jujuy Province, Argentina)', file: 'strata.jpg', text: [
+        '2020',
+        '© Angel Jimenez',
+      ]
+    },
+    {
+      name: 'Banded Ironstone Formation (Ricardo, California, United States)', file: 'banded-ironstone.jpg', text: [
+        '2018',
+        '© Jordan Vos',
       ]
     },
     {
@@ -21,22 +27,21 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Strata Formation (Jujuy Province, Argentina)', file: 'strata.jpg', text: [
-        '2020',
-        '© Angel Jimenez',
+      name: 'Leopold von Ranke (1795 – 1886)', file: 'leopold-von-ranke.jpg', text: [
+        'Julius Schrader (1868). Oil on canvas. 110 × 96 cm.',
+        '© Märkisches Museum',
       ]
     },
     {
-      name: 'Bivalve Fossils (Sion Hill, Leinster, Ireland)', file: 'bivalves.jpg', text: [
-        '2017',
-        '© André Cardoso',
+      name: 'Arsenalna Metro Station (Kyiv, Ukraine)', file: 'arsenalna.jpg', text: [
+        'Gennady Granatkin, Stanislav Krushinsky, Natalia Schukina (1960). Marble, bronze.',
+        '© Jorge Láscar',
       ]
     },
     {
-      name: 'Baader-Meinhof Phenomenon', file: 'baader-meinhof-phenomenon.jpg', text: [
-        'Text',
-        '2019',
-        '(c)'
+      name: 'Belemnite Fossils (Hunstanton Cliffs, Norfolk, England)', file: 'belemnites.jpg', text: [
+        '2016',
+        '© Natural History Museum of Los Angeles County',
       ]
     },
     {
@@ -46,9 +51,9 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Belemnite Fossils (Hunstanton Cliffs, Norfolk, England)', file: 'belemnites.jpg', text: [
-        '2016',
-        '© Natural History Museum of Los Angeles County',
+      name: 'Bivalve Fossils (Sion Hill, Leinster, Ireland)', file: 'bivalves.jpg', text: [
+        '2017',
+        '© André Cardoso',
       ]
     },
     {
@@ -70,12 +75,6 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Banded Ironstone Formation (Ricardo, California, United States)', file: 'banded-ironstone.jpg', text: [
-        '2018',
-        '© Jordan Vos',
-      ]
-    },
-    {
       name: 'George Bartholomew (1919 – 2006)', file: 'george-bartholomew.jpg', text: [
         'John Walton (1910). Oil on panel. 62.5 × 49 cm.',
         '© The Royal Society of Edinburgh',
@@ -94,6 +93,12 @@ export const Images = reactive({
       ]
     },
     {
+      name: 'Nesher Cement Factory (Nesher, Israel)', file: 'unimaginably-gigantic-scale.jpg', text: [
+        '2010',
+        '© Alessondra Springmann',
+      ]
+    },
+    {
       name: 'Bird Track Fossil (New York, New York, United States)', file: 'little-tracks.jpg', text: [
         '2019',
         '© Carl Mehling',
@@ -103,6 +108,18 @@ export const Images = reactive({
       name: 'Augustus Pugin (1812 – 1852)', file: 'augustus-pugin.jpg', text: [
         'Unidentified painter (1840). Oil on canvas. 61.2 × 50.8 cm.',
         '© National Portraig Gallery',
+      ]
+    },
+    {
+      name: 'The True Principles of Pointed or Christian Architecture', file: 'true-principles.jpg', text: [
+        'Augustus Pugin (1841). 186 pages. 28 × 21 × 0.8 cm',
+        '© John Weale',
+      ]
+    },
+    {
+      name: 'Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin?', file: 'limestone-book.jpg', text: [
+        'Lino Bianco (1998). 120 pages. 28 × 20 × 1.4 cm',
+        '© University of Malta',
       ]
     },
     {
@@ -124,6 +141,18 @@ export const Images = reactive({
       ]
     },
     {
+      name: 'Marble Formation (Coconino, Arizona, United States)', file: 'marble.jpg', text: [
+        '2006',
+        '© Astrid Westvang',
+      ]
+    },
+    {
+      name: 'Granite Formations (Calangianus, Sardegna, Italy)', file: 'granite.jpg', text: [
+        '2017',
+        '© Jan Yarnot',
+      ]
+    },
+    {
       name: 'Gneiss Formation (Nunavut, Nunavut, Canada)', file: 'gneiss.jpg', text: [
         '2018',
         '© Petr Hykš',
@@ -133,6 +162,12 @@ export const Images = reactive({
       name: 'Quartz Formation (Bryce Canyon, Utah, United States)', file: 'quartz.jpg', text: [
         '2017',
         '© Az Nature',
+      ]
+    },
+    {
+      name: 'Christopher Barr (1958 – )', file: 'christopher-barr.jpg', text: [
+        '2017',
+        '© CTV News',
       ]
     },
     {
@@ -160,6 +195,12 @@ export const Images = reactive({
       ]
     },
     {
+      name: 'Tomb of Artaxerxes I', file: 'tomb-of-xerxes.jpg', text: [
+        '(550 – 330 B.C.) Sandstone rock. 23 × 18 m.',
+        '© Carole Raddato',
+      ]
+    },
+    {
       name: 'Tomb of Darius the Great', file: 'tomb-of-darius.jpg', text: [
         '(550 – 330 B.C.) Sandstone rock. 23 × 18 m.',
         '© Carole Raddato',
@@ -172,9 +213,9 @@ export const Images = reactive({
       ]
     },
     {
-      name: 'Tomb of Artaxerxes I', file: 'tomb-of-xerxes.jpg', text: [
-        '(550 – 330 B.C.) Sandstone rock. 23 × 18 m.',
-        '© Carole Raddato',
+      name: 'Sir George Gilbert Scott (1811 – 1878)', file: 'gilbert-scott.jpg', text: [
+        'George Richmond (1878). Oil on canvas. 71 × 63 cm',
+        '© Royal Institute of British Architects',
       ]
     },
     {
@@ -184,15 +225,21 @@ export const Images = reactive({
       ]
     },
     {
+      name: 'The Djinguereber Mosque (Timbuktu, Mali)', file: 'the-djinguereber-mosque.jpg', text: [
+        '(1327) Sun-baked earth bricks, wood, mud. 75 × 75 × 16 m. ',
+        '© Julie Summersquash',
+      ]
+    },
+    {
       name: 'The Great Mosque of Djenné (Djenné, Mali)', file: 'djenne.jpg', text: [
         '(1200 – 1300). Earth, organic fibre, wood, mud. 34 × 40 × 6 m.',
         '© Baron Reznik',
       ]
     },
     {
-      name: 'The Djinguereber Mosque (Timbuktu, Mali)', file: 'the-djinguereber-mosque.jpg', text: [
-        '(1327) Sun-baked earth bricks, wood, mud. 75 × 75 × 16 m. ',
-        '© Julie Summersquash',
+      name: 'Ferey Mudbricks (Jordan Valley, Palestine)', file: 'ferey.jpg', text: [
+        '2011',
+        '© George Plakides',
       ]
     },
     {
@@ -217,60 +264,6 @@ export const Images = reactive({
       name: 'Ukrainian troops (Kyiv, Ukraine)', file: 'war.jpg', text: [
         '2022',
         '© Reuters',
-      ]
-    },
-    {
-      name: 'The True Principles of Pointed or Christian Architecture', file: 'true-principles.jpg', text: [
-        'Augustus Pugin (1841). 186 pages. 28 × 21 × 0.8 cm',
-        '© John Weale',
-      ]
-    },
-    {
-      name: 'Limestone in Post-War British Architecture: Is it a Plea for a Return to Pugin?', file: 'limestone-book.jpg', text: [
-        'Lino Bianco (1998). 120 pages. 28 × 20 × 1.4 cm',
-        '© University of Malta',
-      ]
-    },
-    {
-      name: 'Marble Formation (Coconino, Arizona, United States)', file: 'marble.jpg', text: [
-        '2006',
-        '© Astrid Westvang',
-      ]
-    },
-    {
-      name: 'Granite Formations (Calangianus, Sardegna, Italy)', file: 'granite.jpg', text: [
-        '2017',
-        '© Jan Yarnot',
-      ]
-    },
-    {
-      name: 'Sir George Gilbert Scott (1811 – 1878)', file: 'gilbert-scott.jpg', text: [
-        'George Richmond (1878). Oil on canvas. 71 × 63 cm',
-        '© Royal Institute of British Architects',
-      ]
-    },
-    {
-      name: 'Nesher Cement Factory (Nesher, Israel)', file: 'unimaginably-gigantic-scale.jpg', text: [
-        '2010',
-        '© Alessondra Springmann',
-      ]
-    },
-    {
-      name: 'Christopher Barr (1958 – )', file: 'christopher-barr.jpg', text: [
-        '2017',
-        '© CTV News',
-      ]
-    },
-    {
-      name: 'Arsenalna Metro Station (Kyiv, Ukraine)', file: 'arsenalna.jpg', text: [
-        'Gennady Granatkin, Stanislav Krushinsky, Natalia Schukina (1960). Marble, bronze.',
-        '© Jorge Láscar',
-      ]
-    },
-    {
-      name: 'Ferey Mudbricks (Jordan Valley, Palestine)', file: 'ferey.jpg', text: [
-        '2011',
-        '© George Plakides',
       ]
     }
   ],
