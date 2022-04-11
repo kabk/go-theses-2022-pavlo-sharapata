@@ -322,8 +322,8 @@ export const Images = reactive({
   getFiguresList () {
     const figures = this.images.map(i => `
       <li>
+      <footer>${i.name}</footer>
         <img src="${this.getUrl(i)}">
-        <footer>${i.name}</footer>
       </li>`
     )
     return `
