@@ -107,7 +107,7 @@ a[href="#figure"] {
 @media (max-width: 600px) {
 
     .figures li img {
-        width: 75vw;
+        min-width: 82.8vw;
     }
 
 
