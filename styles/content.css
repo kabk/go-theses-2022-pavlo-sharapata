@@ -70,7 +70,7 @@
 
 .chapter.all-footnotes li {
   margin: 0;
-  padding: 0 0 8px 0;
+  padding: 15px 0 25px 0;
   display: flex;
   flex-direction: row;
 }
@@ -80,20 +80,22 @@
 }
 
 .chapter.all-footnotes .number {
-  flex-basis: 200px;
+  flex-basis: 16.66%;
   font-size: 13px;
   color: black;
   text-align: left;
+  text-transform: capitalize;
+  line-height: 13.4px;
   padding-left: 6px;
   /* distance between footnote title and footnote */
-  margin-bottom: 25px;
 }
 
 .chapter.all-footnotes .footnote {
   flex: 1;
   display: flex;
   flex-direction: column;
-  margin-top: 20px;
+  padding-right: 16.66%;
+  margin-top: 38px;
 }
 
 .chapter.all-footnotes .text {
@@ -106,7 +108,9 @@
 .chapter.all-footnotes .detail {
   font-weight: normal;
   font-size: 14px;
-  line-height: 21.5px;
+  line-height: 17px;
+  display: none;
+  color: black;
 }
 
 .chapter.bibliography {

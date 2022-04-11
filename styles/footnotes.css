@@ -32,6 +32,7 @@
     justify-content: center;
 }
 
+
 .footnote-popup {
     position: absolute;
     z-index: 10000001;
@@ -45,18 +46,20 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    background-color: white;
 }
 
 .footnote-popup .details {
   position: absolute;
-  left: 16px;
-  top: 16px;
+  left: 6px;
+  top: 4px;
 }
 
 .footnote-popup .details .id {
   color: rgb(178, 182, 184);
   font-size: 13px;
   line-height: 13.4px;
+  text-transform: capitalize;
 }
 
 .footnote-popup .details .detail {
@@ -65,9 +68,9 @@
 }
 
 .footnote-popup .footnote {
-  width: 50vw;
+  width: 100vw;
+  padding:0 16.66% 0 16.66%;
   background-color: white;
-  padding: 32px;
   font-size: 20px;
   text-align: center;
 }
