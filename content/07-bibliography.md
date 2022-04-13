@@ -6,7 +6,7 @@
 
 </div>
 
-*On Progress in History (From the First Lecture to King Maximilian II of Bavaria “&hairsp;On the Epochs of Modern History&hairsp;&hairsp;”*. <br>
+*On Progress in History (From the First Lecture to King Maximilian II of Bavaria “&hairsp;On the Epochs of Modern History&hairsp;&hairsp;”*. 
 The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;24 (2011)<br>
 
 <div class="subchapter">
@@ -72,7 +72,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
- *Volcanoes May Have Helped Life Bounce Back after Dinosaur-Killing Asteroid Strike*. Science, National Geographic (2021) <br>
+ *Volcanoes May Have Helped Life Bounce Back after Dinosaur-Killing Asteroid Strike*. Science, National Geographic (2021)
  [[&hairsp;↗&hairsp;]](https://www.nationalgeographic.com/science/article/volcanoes-helped-life-bounce-back-afterdinosaur-killing-asteroid.) 
 
 <div class="subchapter">
@@ -132,7 +132,7 @@ The Theory and Practice of History, Routledge, London, pp. 20&hairsp;–&hairsp;
 
 </div>
 
-*Limestone in Post-War British Architecture: Is It a Plea for a Return to Pugin?*s Melita Theologica, p. 77 (1998) <br>
+*Limestone in Post-War British Architecture: Is It a Plea for a Return to Pugin?* Melita Theologica, p. 77 (1998) <br>
 
 <div class="subchapter">
 
